@@ -32,7 +32,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research on classification of construction materials based on YOLOv5 model <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research on measuring construction site productivity by converging LSTM and logistic regression analysis<br/> <br/> 
 
-### 🏆 Academic Excellent Scholarshipe <br/> 
+### 🎓 Academic Excellent Scholarshipe <br/> 
 --------------------------
 - **<&nbsp;2021 1st semester&nbsp;>**&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;First place<br/> 
 - **<&nbsp;2021 2st semester&nbsp;>**&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Third place<br/> 
