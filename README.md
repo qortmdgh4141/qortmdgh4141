@@ -63,6 +63,6 @@ Developers interested in deep learning.
 -------------------------
 Date of Birth &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09 <br/>
 Military Service Status &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled <br/>
-Residence &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea
+Residence &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea <br/>
 Phone Number &nbsp;&nbsp; : &nbsp;&nbsp; 010-4141-5624 <br/>
 E-Mail &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@naver.com <br/>
