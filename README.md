@@ -6,11 +6,10 @@ Developers interested in deep learning.
 ### 🏫 Education
 --------------------------
 - **<&nbsp;2017.03.02&nbsp;&nbsp;~&nbsp;&nbsp;2023.02.17&nbsp;>** <br/> 
-**School name**&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Hyupseong University <br/> 
+**School Name**&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Hyupseong University <br/> 
 **Degree**&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Bachelor <br/>
 **Major**&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Software Engineering <br/>
 **GPA/Scale**&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;4.0/4.5 <br/>
-
 
 ### 🏆 Academic Excellent Scholarshipe <br/> 
 --------------------------
