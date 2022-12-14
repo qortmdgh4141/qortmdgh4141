@@ -58,10 +58,10 @@ Developers interested in deep learning.
 ### 📊 Github Card's for Fun <br/>
 -------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) <br/>
-### ✉️ Contact<br/>
+### Information <br/>
 -------------------------
 Date of Birth &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09 <br/>
 Military Service Status &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled <br/>
 Residence &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea <br/>
 Phone Number &nbsp;&nbsp; : &nbsp;&nbsp; 010-4141-5624 <br/>
-E-Mail &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@naver.com <br/>
+✉️ E-Mail &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@naver.com <br/>
