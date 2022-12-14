@@ -19,7 +19,7 @@ Developers interested in deep learning.
 
 ### 🎓 Research Achievements <br/> 
 --------------------------
-- **< &nbsp; 2022.08.03 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.14 &nbsp; >** <br/> 
+- **< &nbsp; 2022.08.03 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.10.14 &nbsp; >** <br/> 
 **Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ACK 2022 (Autumn Conference) <br/> 
 **Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety, “Smart Eye" <br/> 
 **Journal** &nbsp;&nbsp; : &nbsp;&nbsp; Korea Information Processing Society <br/> 
@@ -48,20 +48,20 @@ Developers interested in deep learning.
 --------------------------
 - **< &nbsp; 2021.07.05 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.27 &nbsp; >** <br/> 
 **Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; SuperBin <br/> 
-**Intern Work** &nbsp;&nbsp; : &nbsp;&nbsp Data Cleansing <br/> 
+**Intern Work** &nbsp;&nbsp; : &nbsp;&nbsp; Data Cleansing <br/> 
 - **< &nbsp; 2022.07.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.09.04 &nbsp; >** <br/> 
 **Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; Consquare<br/> 
 **Intern Work** &nbsp;&nbsp; : &nbsp;&nbsp; Research on Excavator Productivity Measurement Based on HRNet Model <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research on Classification of Construction Materials Based on YOLOv5 Model <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research on Measuring Construction Site Productivity by Converging LSTM and Logistic Regression Analysis <br/> <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research on Classification of Construction Materials Based on YOLOv5 Model <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research on Measuring Construction Site Productivity by Converging LSTM and Logistic Regression Analysis <br/> <br/> 
 
 ### 📊 Github Card's for Fun <br/>
 -------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) <br/>
 ### 📃 Information <br/>
 -------------------------
-Date of Birth &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09 <br/>
-Military Service Status &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled <br/>
-Residence &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea <br/>
-Phone Number &nbsp;&nbsp; : &nbsp;&nbsp; 010-4141-5624 <br/>
-E-Mail &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@naver.com <br/>
+Date of Birth &nbsp; : &nbsp; 1998.11.09 <br/>
+Military Service Status &nbsp; : &nbsp; Fulfilled <br/>
+Residence &nbsp; : &nbsp; Gyeonggi-do, Republic of Korea <br/>
+Phone Number &nbsp; : &nbsp; 010-4141-5624 <br/>
+E-Mail &nbsp; : &nbsp; qortmdgh4141@naver.com <br/>
