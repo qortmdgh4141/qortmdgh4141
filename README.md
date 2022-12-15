@@ -1,63 +1,73 @@
 #### Hello, I'm Seungho Baek 👋
-Developers interested in Deep Learning.
-<br/> 
-<br/>  
+Developers interested in Deep Learning. <br/> <br/>  
 
 ### 🏫 Education
 --------------------------
-- **< &nbsp; 2017.03.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.02.17 &nbsp; >** <br/> 
-**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Hyupseong University <br/> 
-**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Bachelor <br/>
-**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering <br/>
-**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.0/4.5 <br/>
+**< &nbsp; 2017.03.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.02.17 &nbsp; >** 
+- _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Hyupseong University_ <br/> 
+- _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Bachelor_ <br/>
+- _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
+- _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.0/4.5_ <br/> <br/> 
+
 ### 🏆 Academic Excellent Scholarshipe <br/> 
 --------------------------
-- **<&nbsp; 2021 1st Semester &nbsp;>** &nbsp;&nbsp; : &nbsp;&nbsp; First Place <br/> 
-- **<&nbsp; 2021 2st Semester &nbsp;>** &nbsp;&nbsp; : &nbsp;&nbsp; Third Place <br/> 
-- **<&nbsp; 2022 1st Semester &nbsp;>** &nbsp;&nbsp; : &nbsp;&nbsp; Third Place <br/> 
-- **<&nbsp; 2022 2st Semester &nbsp;>** &nbsp;&nbsp; : &nbsp;&nbsp; First Place <br/> <br/>
+- _**2021 1st Semester** &nbsp;&nbsp; : &nbsp;&nbsp; First Place_ <br/>
+- _**2021 2st Semester** &nbsp;&nbsp; : &nbsp;&nbsp; Third Place_ <br/> 
+- _**2022 1st Semester** &nbsp;&nbsp; : &nbsp;&nbsp; Third Place_ <br/>
+- _**2022 2st Semester** &nbsp;&nbsp; : &nbsp;&nbsp; First Place_ <br/> <br/>
 
 ### 🎓 Research Achievements <br/> 
 --------------------------
-- **< &nbsp; 2022.08.03 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.10.14 &nbsp; >** <br/> 
-**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ACK 2022 (Autumn Conference) <br/> 
-**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety, “Smart Eye" <br/> 
-**Journal** &nbsp;&nbsp; : &nbsp;&nbsp; Korea Information Processing Society <br/> 
-**Date Issued** &nbsp;&nbsp; : &nbsp;&nbsp; 2022.10.14 <br/> 
-**AI Model Used** &nbsp;&nbsp; : &nbsp;&nbsp; YOLOv5 & I3D <br/> 
+**< &nbsp; 2022.08.03 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.10.14 &nbsp; >** <br/> 
+- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ACK 2022 (Autumn Conference)_ <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety, “Smart Eye"_ <br/> 
+- _**Journal** &nbsp;&nbsp; : &nbsp;&nbsp; Korea Information Processing Society_ <br/> 
+- _**Date Issued** &nbsp;&nbsp; : &nbsp;&nbsp; 2022.10.14_ <br/> 
+- _**AI Model Used** &nbsp;&nbsp; : &nbsp;&nbsp; YOLOv5 & I3D_ <br/> <br/> 
+
 ### 🥈 Certificate <br/> 
 --------------------------
-- **< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >** <br/> 
-**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis <br/> 
-**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT <br/>
-- **< &nbsp; 2022.07.19 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.04.22 &nbsp; >** <br/> 
-**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Information Processing <br/> 
-**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT <br/> <br/>
+**< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >**
+- _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
+- _**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/> 
+
+**< &nbsp; 2022.07.19 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.04.22 &nbsp; >** <br/> 
+- _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Information Processing_ <br/> 
+- _**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/>
 
 ### 🏃 Competition Experience <br/> 
 --------------------------
-- **< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.11.27 &nbsp; >** <br/> 
-**Competition Name** &nbsp;&nbsp; : &nbsp;&nbsp; Artificial Intelligence and Art (AI X ART) Contest <br/> 
-**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp;&nbsp; National Science Museum <br/> 
-**AI model used** &nbsp;&nbsp; : &nbsp;&nbsp; StyleGan3 & StyleCLIP <br/>
-- **< &nbsp;2022.07.25 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.04 &nbsp; >** <br/> 
-**Competition Name** &nbsp;&nbsp; : &nbsp;&nbsp; 2022 ICT Innovation Square AI Contest <br/> 
-**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT &  National IT Industry Promotion Agency <br/> 
-**AI Model Used** &nbsp;&nbsp; : &nbsp;&nbsp; YOLOv5 <br/>
+**< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.11.27 &nbsp; >** <br/> 
+- _**Competition Name** &nbsp;&nbsp; : &nbsp;&nbsp; Artificial Intelligence and Art (AI X ART) Contest_ <br/> 
+- _**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp;&nbsp; National Science Museum_ <br/> 
+- _**AI model used** &nbsp;&nbsp; : &nbsp;&nbsp; StyleGan3 & StyleCLIP_ <br/> <br/> 
+
+**< &nbsp;2022.07.25 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.04 &nbsp; >** <br/> 
+- _**Competition Name** &nbsp;&nbsp; : &nbsp;&nbsp; 2022 ICT Innovation Square AI Contest_ <br/> 
+- _**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT &  National IT Industry Promotion Agency_ <br/> 
+- _**AI Model Used** &nbsp;&nbsp; : &nbsp;&nbsp; YOLOv5_ <br/> <br/> 
+ 
 ### 🏢 Corporate Internship Experience <br/> 
 --------------------------
-- **< &nbsp; 2021.07.05 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.27 &nbsp; >** <br/> 
-**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; SuperBin <br/> 
-**Intern Work** &nbsp;&nbsp; : &nbsp;&nbsp; Data Cleansing <br/> 
-- **< &nbsp; 2022.07.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.09.04 &nbsp; >** <br/> 
-**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; Consquare<br/> 
-**Intern Work** &nbsp;&nbsp; : &nbsp;&nbsp; Research on Excavator Productivity Measurement Based on HRNet Model <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research on Classification of Construction Materials Based on YOLOv5 Model <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research on Measuring Construction Site Productivity by Converging LSTM and Logistic Regression Analysis <br/> <br/> 
+**< &nbsp; 2021.07.05 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.27 &nbsp; >** <br/> 
+- _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; SuperBin_ <br/> 
+- _**Intern Work**_  
+  - _Data Collection_ 
+  - _Data Preprocessing_ <br/> <br/> 
+  
+**< &nbsp; 2022.07.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.09.04 &nbsp; >** <br/> 
+- _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; Consquare_ <br/> 
+- _**Intern Work**_ 
+  - _EDA(Exploratory Data Analysis)_ 
+  - _Model Selection_ <br/> 
+    1. &nbsp; _"Research on Excavator Productivity Measurement Based on HRNet Model"_ <br/> 
+    2. &nbsp; _"Research on Classification of Construction Materials Based on YOLOv5 Model"_ <br/> 
+    3. &nbsp; _"Research on Measuring Construction Site Productivity by Converging LSTM and Logistic Regression Analysis"_ <br/> <br/> 
 
 ### 📊 Github Card's for Fun <br/>
 -------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) <br/> <br/> 
+
 ### 📃 Information <br/>
 -------------------------
 Date of Birth &nbsp; : &nbsp; 1998.11.09 <br/>
