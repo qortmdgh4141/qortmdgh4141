@@ -66,7 +66,7 @@ Developers interested in Deep Learning. <br/> <br/>
 
 ### 📊 Github Card's for Fun <br/>
 -------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) <br/> <br/> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) <br/> 
 
 ### 📃 Information <br/>
 -------------------------
