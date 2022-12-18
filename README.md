@@ -21,7 +21,7 @@ Developers interested in Deep Learning. <br/> <br/>
 **< &nbsp; 2022.08.03 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.10.14 &nbsp; >** <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ACK 2022 (Autumn Conference)_ <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety, “Smart Eye"_ <br/> 
-- _**Journal** &nbsp;&nbsp; : &nbsp;&nbsp; Korea Information Processing Society_ <br/> 
+- _**Journal** &nbsp;&nbsp; : &nbsp;&nbsp; KIPS(Korea Information Processing Society)_ <br/> 
 - _**Date Issued** &nbsp;&nbsp; : &nbsp;&nbsp; 2022.10.14_ <br/> 
 - _**AI Model Used** &nbsp;&nbsp; : &nbsp;&nbsp; YOLOv5 & I3D_ <br/> <br/> 
 
