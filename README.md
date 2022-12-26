@@ -40,7 +40,7 @@ Developer interested in deep learning. <br/> <br/>
 **< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.11.27 &nbsp; >** <br/> 
 - _**Competition Name** &nbsp;&nbsp; : &nbsp;&nbsp; Artificial Intelligence and Art (AI X ART) Contest_ <br/> 
 - _**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp;&nbsp; National Science Museum_ <br/> 
-- _**AI model used** &nbsp;&nbsp; : &nbsp;&nbsp; StyleGan3 & StyleCLIP_ <br/> <br/> 
+- _**AI model used** &nbsp;&nbsp; : &nbsp;&nbsp; StyleGAN3 & StyleCLIP_ <br/> <br/> 
 
 **< &nbsp;2022.07.25 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.04 &nbsp; >** <br/> 
 - _**Competition Name** &nbsp;&nbsp; : &nbsp;&nbsp; 2022 ICT Innovation Square AI Contest_ <br/> 
