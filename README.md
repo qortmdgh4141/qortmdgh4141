@@ -1,7 +1,7 @@
 #### Hello, I'm Seungho Baek 👋
 Developer interested in deep learning. <br/> <br/>  
 
-### 🏫 Education
+### 🏫 Education <br/> 
 --------------------------
 **< &nbsp; 2017.03.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.02.17 &nbsp; >** 
 - _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Hyupseong University_ <br/> 
@@ -27,7 +27,7 @@ Developer interested in deep learning. <br/> <br/>
 
 ### 🥈 Certificate <br/> 
 --------------------------
-**< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >**
+**< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >** <br/> 
 - _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
 - _**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/> 
 
@@ -51,14 +51,14 @@ Developer interested in deep learning. <br/> <br/>
 --------------------------
 **< &nbsp; 2021.07.05 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.27 &nbsp; >** <br/> 
 - _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; SuperBin_ <br/> 
-- _**Intern Work**_  
-  - _Data Collection_ 
+- _**Intern Work**_ <br/>  
+  - _Data Collection_ <br/> 
   - _Data Preprocessing_ <br/> <br/> 
   
 **< &nbsp; 2022.07.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.09.04 &nbsp; >** <br/> 
 - _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; Consquare_ <br/> 
-- _**Intern Work**_ 
-  - _EDA(Exploratory Data Analysis)_ 
+- _**Intern Work**_ <br/> 
+  - _EDA(Exploratory Data Analysis)_ <br/> 
   - _Model Selection_ <br/> 
     1. &nbsp; _"Research on Excavator Productivity Measurement Based on HRNet Model"_ <br/> 
     2. &nbsp; _"Research on Classification of Construction Materials Based on YOLOv5 Model"_ <br/> 
