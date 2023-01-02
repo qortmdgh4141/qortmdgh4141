@@ -9,13 +9,6 @@ Developer interested in deep learning. <br/> <br/>
 - _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
 - _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.0/4.5_ <br/> <br/> 
 
-### 🏆 Academic Excellent Scholarshipe <br/> 
---------------------------
-- _**2021 1st Semester** &nbsp;&nbsp; : &nbsp;&nbsp; First Place_ <br/>
-- _**2021 2st Semester** &nbsp;&nbsp; : &nbsp;&nbsp; Third Place_ <br/> 
-- _**2022 1st Semester** &nbsp;&nbsp; : &nbsp;&nbsp; Third Place_ <br/>
-- _**2022 2st Semester** &nbsp;&nbsp; : &nbsp;&nbsp; First Place_ <br/> <br/>
-
 ### 🎓 Research Achievements <br/> 
 --------------------------
 **< &nbsp; 2022.08.03 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.10.14 &nbsp; >** <br/> 
