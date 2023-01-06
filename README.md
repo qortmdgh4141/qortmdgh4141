@@ -26,8 +26,10 @@ Developer interested in deep learning. <br/> <br/>
 
 **< &nbsp; 2022.07.19 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.04.22 &nbsp; >** <br/> 
 - _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Information Processing_ <br/> 
-- _**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/>
-
+- _**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/>
+ 
+  - Written test completed ➪ Practical test scheduled for 2023.04.22... <br/> <br/>
+  
 ### 🏃 Competition Experience <br/> 
 --------------------------
 **< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.11.27 &nbsp; >** <br/> 
