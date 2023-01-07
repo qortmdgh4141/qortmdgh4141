@@ -50,41 +50,16 @@ Developer interested in deep learning. <br/> <br/>
 ### 🏃 Project Experiences <br/> 
 --------------------------
  
-|Project Name|S/W Development Environment|Model|GitHub Repository URL|
-|:-:|:-:|:-:|:-:|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|Project Name|S/W Development Environment|Model|
+|:----------------:|:-:|:-:|
+|_Intelligent CCTV for Port Safety_|<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual studio&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-A0A0A0?style=flat-square&logo=CMake&logoColor=064F8C"/> <img src="https://img.shields.io/badge/PyCharm-66FF00?style=flat-square&logo=PyCharm&logoColor=black"/> <img src="https://img.shields.io/badge/NVIDIA-black?style=flat-square&logo=NVIDIA&logoColor=76B900"/> <img src="https://img.shields.io/badge/MySQL-00CCCC?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/Anaconda-e9e9e9?style=flat-square&logo=Anaconda&logoColor=44A833"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-FF9900?style=flat-square&logo=PyTorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>|<img src="https://img.shields.io/badge/YOLO-black?&logo=YOLO&logoColor=00FFFF"/> <img src="https://img.shields.io/badge/I3D-FF3399?"/>|
+|_AI Lost Pet Search App_|<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/PyCharm-66FF00?style=flat-square&logo=PyCharm&logoColor=black"/> <img src="https://img.shields.io/badge/NVIDIA-black?style=flat-square&logo=NVIDIA&logoColor=76B900"/> <img src="https://img.shields.io/badge/Anaconda-e9e9e9?style=flat-square&logo=Anaconda&logoColor=44A833"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-FF9900?style=flat-square&logo=PyTorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=blue"/> <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white"/>|<img src="https://img.shields.io/badge/YOLO-black?&logo=YOLO&logoColor=00FFFF"/>|
+|_Classifying Wines by Quality Using Machine Learning_|<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-black?style=flat-square&logo=Google Colab&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-FF9900?style=flat-square&logo=PyTorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>|<img src="https://img.shields.io/badge/KNN-FF0000?style=flat-square?"/> <img src="https://img.shields.io/badge/SVM-FFFF00?style=flat-square?"/> <img src="https://img.shields.io/badge/C5.0-00CC00?style=flat-square?"/>|
+|_Human Evolution-Junior Image Simulation_| <img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-black?style=flat-square&logo=Google Colab&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-FF9900?style=flat-square&logo=PyTorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>|<img src="https://img.shields.io/badge/StyleGan3-ooffff?style=flat-square?"/> <img src="https://img.shields.io/badge/StyleClip-00A98F?style=flat-square?"/>|
+|_Real-time Information Provision App_|<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00CCCC?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white"/>|❌|
+|_Alcohol Mini Game App_ |<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=Kotlin&logoColor=6633ff"/>|❌| 
 
-- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; Alcohol Mini Game App_ 
-- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/Alcohol_Mini_Game_App_ <br/> <br/>
-
-- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; Human Evolution-Junior Image Simulation_ <br/> 
-- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/Human_Evolution-Junior_Image_Simulation_ <br/> <br/>
-
-- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety_ <br/> 
-- _**AI Model Used** &nbsp;&nbsp; : &nbsp;&nbsp; StyleGAN3 & StyleCLIP_ <br/> 
-- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/Intelligent_CCTV_for_Port_Safety_ <br/> <br/>
-
-- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; Real-time Information Provision App_ <br/> 
-- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/Real-time_Information_Provision_App_ <br/> <br/>
-
-
-- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; AI Lost Pet Search App_ <br/> 
-- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/AI_Lost_Pet_Search_App_ <br/> <br/>
-
-
-- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; Classifying Wines by Quality Using Machine Learning_ <br/> 
-- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/Classifying_Wines_by_Quality_Using_Machine_Learning_ <br/> <br/>
-
-
-
-
-
+<br/>
 
 ### 📊 Github Card's for Fun <br/>
 -------------------------
