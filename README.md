@@ -29,19 +29,7 @@ Developer interested in deep learning. <br/> <br/>
 - _**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/>
  
   - Written test completed ➪ Practical test scheduled for 2023.04.22... <br/> <br/>
-  
-### 🏃 Project Experiences <br/> 
---------------------------
-**< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.11.27 &nbsp; >** <br/> 
-- _**Competition Name** &nbsp;&nbsp; : &nbsp;&nbsp; Artificial Intelligence and Art (AI X ART) Contest_ <br/> 
-- _**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp;&nbsp; National Science Museum_ <br/> 
-- _**AI model used** &nbsp;&nbsp; : &nbsp;&nbsp; StyleGAN3 & StyleCLIP_ <br/> <br/> 
-
-**< &nbsp;2022.07.25 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.04 &nbsp; >** <br/> 
-- _**Competition Name** &nbsp;&nbsp; : &nbsp;&nbsp; 2022 ICT Innovation Square AI Contest_ <br/> 
-- _**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT &  National IT Industry Promotion Agency_ <br/> 
-- _**AI Model Used** &nbsp;&nbsp; : &nbsp;&nbsp; YOLOv5_ <br/> <br/> 
- 
+   
 ### 🏢 Corporate Internship Experiences <br/> 
 --------------------------
 **< &nbsp; 2021.07.05 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.27 &nbsp; >** <br/> 
@@ -58,6 +46,45 @@ Developer interested in deep learning. <br/> <br/>
     1. &nbsp; _"Research on Excavator Productivity Measurement Based on HRNet Model"_ <br/> 
     2. &nbsp; _"Research on Classification of Construction Materials Based on YOLOv5 Model"_ <br/> 
     3. &nbsp; _"Research on Measuring Construction Site Productivity by Converging LSTM and Logistic Regression Analysis"_ <br/> <br/> 
+
+### 🏃 Project Experiences <br/> 
+--------------------------
+ 
+|Project Name|S/W Development Environment|Model|GitHub Repository URL|
+|:-:|:-:|:-:|:-:|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; Alcohol Mini Game App_ 
+- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/Alcohol_Mini_Game_App_ <br/> <br/>
+
+- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; Human Evolution-Junior Image Simulation_ <br/> 
+- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/Human_Evolution-Junior_Image_Simulation_ <br/> <br/>
+
+- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety_ <br/> 
+- _**AI Model Used** &nbsp;&nbsp; : &nbsp;&nbsp; StyleGAN3 & StyleCLIP_ <br/> 
+- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/Intelligent_CCTV_for_Port_Safety_ <br/> <br/>
+
+- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; Real-time Information Provision App_ <br/> 
+- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/Real-time_Information_Provision_App_ <br/> <br/>
+
+
+- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; AI Lost Pet Search App_ <br/> 
+- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/AI_Lost_Pet_Search_App_ <br/> <br/>
+
+
+- _**Project Name** &nbsp;&nbsp; : &nbsp;&nbsp; Classifying Wines by Quality Using Machine Learning_ <br/> 
+- _**GitHub Repository URL** &nbsp;&nbsp; : &nbsp;&nbsp; https://github.com/qortmdgh4141/Classifying_Wines_by_Quality_Using_Machine_Learning_ <br/> <br/>
+
+
+
+
+
 
 ### 📊 Github Card's for Fun <br/>
 -------------------------
