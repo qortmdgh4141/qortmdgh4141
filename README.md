@@ -1,4 +1,4 @@
-#### Hello, I'm Seungho Baek 👋
+#### Hello, I'm Seungho Baek 👋 
 Developer interested in deep learning. <br/> <br/>  
 
 ### 🏫 Education <br/> 
