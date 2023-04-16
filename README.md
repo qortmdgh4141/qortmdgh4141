@@ -52,7 +52,7 @@ Developer interested in deep learning. <br/>
     3. &nbsp; _"Research on measuring construction site productivity by converging LSTM and logistic regression analysis"_ <br/> <br/> 
 
 **< &nbsp; 2023.04.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
-- _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; Consquare_ <br/> 
+- _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; AI Convergence Institute at Sungkyunkwan University_ <br/> 
 - _**Intern Work**_ <br/> 
   - _Data Collection_ <br/> 
   - _Data Preprocessing_ <br/>
