@@ -11,6 +11,11 @@ I am currently a researcher at the AI Convergence Institute at Sungkyunkwan Univ
 - _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
 - _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.0/4.5_ <br/> <br/> 
 
+**< &nbsp; 2023.08.28 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** 
+- _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Sungkyunkwan University_ <br/> 
+- _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Master_ <br/>
+- _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/> <br/>
+  
 ### 🎓 Research Achievements <br/> 
 --------------------------
 **< &nbsp; 2022.08.03 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.10.14 &nbsp; >** <br/> 
@@ -50,7 +55,7 @@ I am currently a researcher at the AI Convergence Institute at Sungkyunkwan Univ
     2. &nbsp; _"Research on classification of construction materials based on YOLOv5 model"_ <br/> 
     3. &nbsp; _"Research on measuring construction site productivity by converging LSTM and logistic regression analysis"_ <br/> <br/> 
 
-**< &nbsp; 2023.04.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
+**< &nbsp; 2023.04.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.08.27 &nbsp; >** <br/> 
 - _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; AI Convergence Institute at Sungkyunkwan University_ <br/> 
 - _**Intern Work**_ <br/> 
   - _Data Collection_ <br/> 
