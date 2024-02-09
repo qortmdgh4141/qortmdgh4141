@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqortmdgh4141&count_bg=%23000000&title_bg=%23050505&icon=awesomelists.svg&icon_color=%23FAF4F4&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 #### Hello, I'm Seungho Baek 👋  
-I am currently a researcher at the AI Convergence Institute at Sungkyunkwan University, where I focus on deep learning research. As a developer with a strong interest in the field, I am particularly drawn to the areas of reinforcement learning and generative models <br/> <br/>  
+I am currently pursuing my master's degree in the Software Department at Sungkyunkwan University. My research is primarily centered around reinforcement learning, with a specific focus on hierarchical reinforcement learning and multimodal learning. <br/> <br/> 
 
 ### 🏫 Education <br/> 
 --------------------------
@@ -19,23 +19,16 @@ I am currently a researcher at the AI Convergence Institute at Sungkyunkwan Univ
 ### 🎓 Research Achievements <br/> 
 --------------------------
 **< &nbsp; 2022.08.03 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.10.14 &nbsp; >** <br/> 
-- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ACK 2022 (Autumn Conference)_ <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety, “Smart Eye"_ <br/> 
-- _**Journal** &nbsp;&nbsp; : &nbsp;&nbsp; KIPS(Korea Information Processing Society)_ <br/> 
-- _**Date Issued** &nbsp;&nbsp; : &nbsp;&nbsp; 2022.10.14_ <br/> 
-- _**AI Model Used** &nbsp;&nbsp; : &nbsp;&nbsp; YOLOv5 & I3D_ <br/> <br/> 
+- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ACK 2022 (Autumn Conference)_ <br/> 
+- _**Proceedings** &nbsp;&nbsp; : &nbsp;&nbsp; KIPS(Korea Information Processing Society)_ <br/> 
+- _**Date Issued** &nbsp;&nbsp; : &nbsp;&nbsp; 2022.10.14_ <br/> <br/>
 
 ### 🥈 Certificate <br/> 
 --------------------------
 **< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >** <br/> 
 - _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
 - _**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/> 
-
-**< &nbsp; 2022.07.19 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
-- _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Information Processing_ <br/> 
-- _**Host Organization** &nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/>
- 
-  - Written test completed ➪ Practical test scheduled for 2023.07.22... <br/> <br/>
    
 ### 🏢 Corporate Internship Experiences <br/> 
 --------------------------
@@ -63,8 +56,9 @@ I am currently a researcher at the AI Convergence Institute at Sungkyunkwan Univ
   - _EDA(Exploratory Data Analysis)_ <br/> 
   - _Model Development and Selection_ <br/> 
   
-    1. &nbsp; _"Research on distinguishing characteristics of specific objects by transmitting wireless signals and analyzing their reflection and penetration properties, with the ultimate goal of classifying benign/malignant tumors for breast cancer diagnosis "_ <br/> <br/>
-    
+    1. &nbsp; _"Research on developing a deep learning model to predict breast cancer using data from reflected and transmitted RF wireless signals"_ <br/> <br/>
+    2. &nbsp; _"Research on developing a deep learning model for predicting hypotension in surgery patients 5 minutes before its onset, using non-invasive biometric data"_ <br/> <br/>
+
 ### 🏃 Project Experiences <br/> 
 -------------------------- 
 |Project Name|S/W Development Environment|Model|
