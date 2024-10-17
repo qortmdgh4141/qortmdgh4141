@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqortmdgh4141&count_bg=%23000000&title_bg=%23050505&icon=awesomelists.svg&icon_color=%23FAF4F4&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 #### Hello, I'm Seungho Baek 👋  
-I am currently pursuing my master's degree in the Software Department at Sungkyunkwan University. My research is primarily centered around reinforcement learning, with a specific focus on hierarchical reinforcement learning and multimodal learning. <br/> <br/> 
+I am currently pursuing my master's degree in the Software Department at Sungkyunkwan University. My research primarily focuses on Offline Goal-Conditioned Reinforcement Learning (GCRL), aiming to train agents to perform complex robotic manipulation and navigation tasks in the real world. <br/> <br/>
 
 ### 🏫 Education <br/> 
 --------------------------
