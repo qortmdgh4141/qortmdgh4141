@@ -18,64 +18,56 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
   
 ### 🎓 Research Achievements <br/> 
 --------------------------
-**< &nbsp; 2022.08.03 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.10.14 &nbsp; >** <br/> 
+**< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.11.30 &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety, “Smart Eye"_ <br/> 
-- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ACK 2022 (Autumn Conference)_ <br/> 
-- _**Proceedings** &nbsp;&nbsp; : &nbsp;&nbsp; KIPS(Korea Information Processing Society)_ <br/> 
-- _**Date Issued** &nbsp;&nbsp; : &nbsp;&nbsp; 2022.10.14_ <br/> <br/>
+- _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; KIPS (Korea Information Processing Society)_ <br/> <br/>
+
+**< &nbsp; 2023.02.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.08.31 &nbsp; >** <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Prediction of intraoperative hypotension using deep learning models based on non-invasive monitoring devices_ <br/> 
+- _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; JCMC (Journal of Clinical Monitoring and Computing)_ <br/> <br/>
+
+**< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Calibrated subgoal generation for Offline HRL_ <br/> 
+- _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; IJCAI (International Joint Conference on Artificial Intelligence)_ <br/> <br/>
 
 ### 🥈 Certificate <br/> 
 --------------------------
 **< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >** <br/> 
 - _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
 - _**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/> 
-   
+
 ### 🏢 Corporate Internship Experiences <br/> 
 --------------------------
 **< &nbsp; 2021.07.05 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.27 &nbsp; >** <br/> 
 - _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; SuperBin_ <br/> 
-- _**Intern Work**_ <br/>  
-  - _Data Collection_ <br/> 
-  - _Data Preprocessing_ <br/> <br/> 
+- _**Intern Work**_  &nbsp;&nbsp; : &nbsp;&nbsp; _Data Collection_  /  _Data Preprocessing_ <br/> <br/> 
   
 **< &nbsp; 2022.07.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.09.04 &nbsp; >** <br/> 
 - _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; Consquare_ <br/> 
-- _**Intern Work**_ <br/> 
-  - _EDA(Exploratory Data Analysis)_ <br/> 
-  - _Model Development and Selection_ <br/>
-   
-    1. &nbsp; _"Research on excavator productivity measurement based on HRNet model"_ <br/> 
-    2. &nbsp; _"Research on classification of construction materials based on YOLOv5 model"_ <br/> 
-    3. &nbsp; _"Research on measuring construction site productivity by converging LSTM and logistic regression analysis"_ <br/> <br/> 
-
+- _**Intern Work**_  &nbsp;&nbsp; : &nbsp;&nbsp; _Exploratory Data Analysis_  /  _AI Model Development_ <br/> <br/>
+    
 **< &nbsp; 2023.04.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.08.27 &nbsp; >** <br/> 
 - _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; AI Convergence Institute at Sungkyunkwan University_ <br/> 
-- _**Intern Work**_ <br/> 
-  - _Data Collection_ <br/> 
-  - _Data Preprocessing_ <br/>
-  - _EDA(Exploratory Data Analysis)_ <br/> 
-  - _Model Development and Selection_ <br/> 
-  
-    1. &nbsp; _"Research on developing a deep learning model to predict breast cancer using data from reflected and transmitted RF wireless signals"_ <br/> <br/>
-    2. &nbsp; _"Research on developing a deep learning model for predicting hypotension in surgery patients 5 minutes before its onset, using non-invasive biometric data"_ <br/> <br/>
+- _**Intern Work**  &nbsp;&nbsp; : &nbsp;&nbsp; Data Collection  /  Data Preprocessing  /  Exploratory Data Analysis  /  AI Model Development_ <br/> <br/>
 
-### 🏃 Project Experiences <br/> 
--------------------------- 
-|Project Name|S/W Development Environment|Model|
-|:----------------:|:-:|:-:|
-|_Digital Therapeutics Platform Development_|<img src="https://img.shields.io/badge/Google Colab-black?style=flat-square&logo=Google Colab&logoColor=yellow"/> <img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/NVIDIA-black?style=flat-square&logo=NVIDIA&logoColor=76B900"/> <img src="https://img.shields.io/badge/Anaconda-e9e9e9?style=flat-square&logo=Anaconda&logoColor=44A833"/> <img src="https://img.shields.io/badge/PyCharm-66FF00?style=flat-square&logo=PyCharm&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-FF9900?style=flat-square&logo=PyTorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit learn-blue?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>|<img src="https://img.shields.io/badge/MiniRocket-41BDF5?style=flat-square?"/> <img src="https://img.shields.io/badge/CNN-4169E1?style=flat-square?"/> <img src="https://img.shields.io/badge/MLP-5C5543?style=flat-square?"/> <img src="https://img.shields.io/badge/KNN-FF0000?style=flat-square?"/> <img src="https://img.shields.io/badge/SVM-FFFF00?style=flat-square?"/> <img src="https://img.shields.io/badge/C5.0-00CC00?style=flat-square?"/>|
-|_Intelligent CCTV for Port Safety_|<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual studio&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-A0A0A0?style=flat-square&logo=CMake&logoColor=064F8C"/> <img src="https://img.shields.io/badge/PyCharm-66FF00?style=flat-square&logo=PyCharm&logoColor=black"/> <img src="https://img.shields.io/badge/NVIDIA-black?style=flat-square&logo=NVIDIA&logoColor=76B900"/> <img src="https://img.shields.io/badge/MySQL-00CCCC?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/Anaconda-e9e9e9?style=flat-square&logo=Anaconda&logoColor=44A833"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-FF9900?style=flat-square&logo=PyTorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>|<img src="https://img.shields.io/badge/YOLO-0000FF?"/> <img src="https://img.shields.io/badge/I3D-FF3399?"/>|
-|_AI Lost Pet Search App_|<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/PyCharm-66FF00?style=flat-square&logo=PyCharm&logoColor=black"/> <img src="https://img.shields.io/badge/NVIDIA-black?style=flat-square&logo=NVIDIA&logoColor=76B900"/> <img src="https://img.shields.io/badge/Anaconda-e9e9e9?style=flat-square&logo=Anaconda&logoColor=44A833"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-FF9900?style=flat-square&logo=PyTorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Numpy&logoColor=blue"/> <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white"/>|<img src="https://img.shields.io/badge/YOLO-0000FF?"/>|
-|_Comparing the Effect of Transfer Learning on ResNet for Classification Problems_|<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-black?style=flat-square&logo=Google Colab&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-FF9900?style=flat-square&logo=PyTorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>|<img src="https://img.shields.io/badge/ResNet-2E8B57?style=flat-square?"/>|
-|_Comparing Performance of MLP and CNN for Classification Problem_|<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-black?style=flat-square&logo=Google Colab&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit learn-blue?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>|<img src="https://img.shields.io/badge/MLP-5C5543?style=flat-square?"/> <img src="https://img.shields.io/badge/CNN-4169E1?style=flat-square?"/>|
-|_Comparing the Effect of Feature Scaling on MLP for Classification Problem_|<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-black?style=flat-square&logo=Google Colab&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit learn-blue?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>|<img src="https://img.shields.io/badge/MLP-5C5543?style=flat-square?"/>|
-|_Performance Optimization of MLP for Regression Problem_|<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-black?style=flat-square&logo=Google Colab&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit learn-blue?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>|<img src="https://img.shields.io/badge/MLP-5C5543?style=flat-square?"/>|
-|_Comparing Performance of Shallow and Deep MLP for Regression Problem_|<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-black?style=flat-square&logo=Google Colab&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit learn-blue?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>|<img src="https://img.shields.io/badge/MLP-5C5543?style=flat-square?"/>|
-|_Comparing Performance of Three ML Models for Classification Problem_|<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-black?style=flat-square&logo=Google Colab&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit learn-blue?style=flat-square&logo=scikitlearn&logoColor=F7931E"/><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=blue"/>|<img src="https://img.shields.io/badge/KNN-FF0000?style=flat-square?"/> <img src="https://img.shields.io/badge/SVM-FFFF00?style=flat-square?"/> <img src="https://img.shields.io/badge/C5.0-00CC00?style=flat-square?"/>|
-|_Real-Time Information Provision App_|<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00CCCC?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white"/>|❌|
-|_Alcohol Mini Game App_ |<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=Kotlin&logoColor=6633ff"/>|❌| 
 
-<br/>
+### 👨‍🏫 Teaching & Mentoring <br/>
+--------------------------
+**< &nbsp; 2023.09.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/>
+- _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Data Analysis_ <br/>
+- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate students at Sungkyunkwan University_ <br/> <br/>
+
+**< &nbsp; 2024.03.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.06.27 &nbsp; >** <br/>
+- _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Reinforcement Learning_ <br/>
+- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate and graduate students at Sungkyunkwan University_ <br/> <br/>
+
+**< &nbsp; 2024.07.15 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.08.30 &nbsp; >** <br/>
+- _**Program** &nbsp;&nbsp; : &nbsp;&nbsp; National Defense AI Education_ <br/>
+- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; South Korean military personnel_ <br/> <br/>
+
+**< &nbsp; 2024.11.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.11.14 &nbsp; >** <br/>
+- _**Program** &nbsp;&nbsp; : &nbsp;&nbsp; AI Leadership Program for Manufacturing_ <br/>
+- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; LG Electronics employees_ <br/> <br/>
 
 ### 📊 Github Card's for Fun <br/>
 -------------------------
@@ -87,4 +79,5 @@ Date of Birth &nbsp; : &nbsp; 1998.11.09 <br/>
 Military Service Status &nbsp; : &nbsp; Fulfilled <br/>
 Residence &nbsp; : &nbsp; Gyeonggi-do, Republic of Korea <br/>
 Phone Number &nbsp; : &nbsp; 010-4141-5624 <br/>
-E-Mail &nbsp; : &nbsp; qortmdgh4141@naver.com <br/>
+E-Mail &nbsp; : &nbsp; qortmdgh4141@naver.com  <br/> <br/> 
+
