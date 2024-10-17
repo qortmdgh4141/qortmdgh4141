@@ -62,7 +62,7 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 - _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Reinforcement Learning_ <br/>
 - _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate and graduate students at Sungkyunkwan University_ <br/> <br/>
 
-**< &nbsp; 2024.07.15 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.08.30 &nbsp; >** <br/>
+**< &nbsp; 2024.10.15 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.10.16 &nbsp; >** <br/>
 - _**Program** &nbsp;&nbsp; : &nbsp;&nbsp; National Defense AI Education_ <br/>
 - _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; South Korean military personnel_ <br/> <br/>
 
