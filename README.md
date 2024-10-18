@@ -9,15 +9,19 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 - _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Hyupseong University_ <br/> 
 - _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Bachelor_ <br/>
 - _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
-- _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.0/4.5_ <br/> <br/> 
+- _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.0/4.5_ <br/>  
+- _**Advisor** &nbsp;&nbsp; : &nbsp;&nbsp; Prof. Hyeseung Park_ <br/> <br/>
 
 **< &nbsp; 2023.08.28 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** 
 - _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Sungkyunkwan University_ <br/> 
 - _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Master_ <br/>
 - _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
-- _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.3/4.5_ <br/> <br/>
-  
-### 🎓 Research Achievements <br/> 
+- _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.3/4.5_ <br/>
+- _**Laboratory** &nbsp;&nbsp; : &nbsp;&nbsp; CSI (Computer Systems and Intelligence) Lab, SKKU_ <br/> 
+- _**Advisor** &nbsp;&nbsp; : &nbsp;&nbsp; Prof. Yusung Kim_ <br/> <br/>
+
+
+### 🎓 Publications <br/> 
 --------------------------
 **< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.11.30 &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety, “Smart Eye"_ <br/> 
@@ -31,13 +35,13 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Calibrated subgoal generation for Offline HRL_ <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; IJCAI (International Joint Conference on Artificial Intelligence)_ <br/> <br/>
 
-### 🥈 Certificate <br/> 
+### 🥈 Certificates <br/> 
 --------------------------
 **< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >** <br/> 
 - _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
 - _**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/> 
 
-### 🏢 Corporate Internship Experiences <br/> 
+### 🏢 Internship Experiences <br/> 
 --------------------------
 **< &nbsp; 2021.07.05 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.27 &nbsp; >** <br/> 
 - _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; SuperBin_ <br/> 
@@ -52,7 +56,7 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 - _**Intern Work**  &nbsp;&nbsp; : &nbsp;&nbsp; Data Collection  /  Data Preprocessing  /  Exploratory Data Analysis  /  AI Model Development_ <br/> <br/>
 
 
-### 👨‍🏫 Teaching & Mentoring <br/>
+### 👨‍🏫 Teaching & Mentoring Experiences <br/>
 --------------------------
 **< &nbsp; 2023.09.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/>
 - _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Data Analysis_ <br/>
