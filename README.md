@@ -2,10 +2,15 @@
 
 #### Hello, I'm Seungho Baek 👋  
 
-I am conducting research on Offline Goal-Conditioned Reinforcement Learning (GCRL) with a focus on developing agents that can perform complex robotic manipulation and navigation tasks. <br/> <br/> 
-First, Offline RL differs from online reinforcement learning in that it uses pre-collected data for training, rather than relying on real-time interactions with the environment. This approach reduces the costs and risks associated with interacting directly with the environment.<br/> 
-Second, GCRL offers the advantage of generalization over different goals, allowing the agent to adapt to new objectives without the need for retraining, unlike traditional reinforcement learning, which focuses on fixed goals. <br/> <br/> 
-By combining these two methods, my goal is to train agents that can efficiently set optimal subgoals and reach various subgoals, even in environments with limited interaction opportunities. <br/> <br/> 
+I am currently pursuing my master's degree in the Software Department at Sungkyunkwan University. My research primarily focuses on Offline GCRL (Goal-Conditioned Reinforcement Learning), aiming to train agents to perform complex robotic manipulation and navigation tasks in the real world. <br/> <br/> 
+
+### 📚 Research Interests <br/> 
+--------------------------
+
+_I am conducting research on Offline GCRL with a focus on developing agents that can perform complex robotic manipulation and navigation tasks._ <br/> <br/> 
+_First, Offline RL differs from Online RL that it uses pre-collected data for training, rather than relying on real-time interactions with the environment. This approach reduces the costs and risks associated with interacting directly with the environment._<br/> 
+_Second, GCRL offers the advantage of generalization over different goals, allowing the agent to adapt to new objectives without the need for retraining, unlike traditional RL, which focuses on fixed goals._ <br/> <br/> 
+_By combining these two methods, my goal is to train agents that can efficiently set optimal subgoals and reach various subgoals, even in environments with limited interaction opportunities._ <br/> <br/> 
 
 
 ### 🏫 Education <br/> 
