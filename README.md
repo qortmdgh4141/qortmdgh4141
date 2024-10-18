@@ -4,13 +4,37 @@
 
 I am currently pursuing my master's degree in the Software Department at Sungkyunkwan University. My research primarily focuses on Offline GCRL (Goal-Conditioned Reinforcement Learning), aiming to train agents to perform complex robotic manipulation and navigation tasks in the real world. <br/> <br/> 
 
+
+### 📃 Personal Information <br/>
+-------------------------
+- _**Name** &nbsp;&nbsp; : &nbsp;&nbsp; Seungho Baek_ <br/>
+- _**Date of Birth** &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09_ <br/>
+- _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
+- _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea_ <br/>
+- _**Phone Number** &nbsp;&nbsp; : &nbsp;&nbsp; 010-4141-5624_ <br/>
+- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@naver.com_ <br/>
+- _**GitHub Repository** &nbsp;&nbsp; : &nbsp;&nbsp; [https://github.com/qortmdgh4141](https://github.com/qortmdgh4141)_ <br/> <br/>
+
+
 ### 📚 Research Interests <br/> 
 --------------------------
 
-_I am conducting research on Offline GCRL with a focus on developing agents that can perform complex robotic manipulation and navigation tasks._ <br/> <br/> 
-_First, Offline RL differs from Online RL that it uses pre-collected data for training, rather than relying on real-time interactions with the environment. This approach reduces the costs and risks associated with interacting directly with the environment._<br/> 
-_Second, GCRL offers the advantage of generalization over different goals, allowing the agent to adapt to new objectives without the need for retraining, unlike traditional RL, which focuses on fixed goals._ <br/> <br/> 
-_By combining these two methods, my goal is to train agents that can efficiently set optimal subgoals and reach various subgoals, even in environments with limited interaction opportunities._ <br/> <br/> 
+_I am conducting research on Offline GCRL with a focus on developing agents that can perform complex robotic manipulation and navigation tasks. First, Offline RL differs from Online RL that it uses pre-collected data for training, rather than relying on real-time interactions with the environment. This approach reduces the costs and risks associated with interacting directly with the environment. Second, GCRL offers the advantage of generalization over different goals, allowing the agent to adapt to new objectives without the need for retraining, unlike traditional RL, which focuses on fixed goals. By combining these two methods, my goal is to train agents that can efficiently set optimal subgoals and reach various subgoals, even in environments with limited interaction opportunities._ <br/> <br/> 
+
+
+### 🎓 Publications <br/> 
+--------------------------
+**< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.11.30 &nbsp; >** <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety, “Smart Eye"_ <br/> 
+- _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; KIPS (Korea Information Processing Society)_ <br/> <br/>
+
+**< &nbsp; 2023.02.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.08.31 &nbsp; >** <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Prediction of intraoperative hypotension using deep learning models based on non-invasive monitoring devices_ <br/> 
+- _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; JCMC (Journal of Clinical Monitoring and Computing)_ <br/> <br/>
+
+**< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Calibrated subgoal generation for Offline HRL_ <br/> 
+- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; IJCAI (International Joint Conference on Artificial Intelligence)_ <br/> <br/>
 
 
 ### 🏫 Education <br/> 
@@ -31,25 +55,12 @@ _By combining these two methods, my goal is to train agents that can efficiently
 - _**Advisor** &nbsp;&nbsp; : &nbsp;&nbsp; Prof. Yusung Kim_ <br/> <br/>
 
 
-### 🎓 Publications <br/> 
---------------------------
-**< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.11.30 &nbsp; >** <br/> 
-- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety, “Smart Eye"_ <br/> 
-- _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; KIPS (Korea Information Processing Society)_ <br/> <br/>
-
-**< &nbsp; 2023.02.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.08.31 &nbsp; >** <br/> 
-- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Prediction of intraoperative hypotension using deep learning models based on non-invasive monitoring devices_ <br/> 
-- _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; JCMC (Journal of Clinical Monitoring and Computing)_ <br/> <br/>
-
-**< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
-- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Calibrated subgoal generation for Offline HRL_ <br/> 
-- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; IJCAI (International Joint Conference on Artificial Intelligence)_ <br/> <br/>
-
 ### 🥈 Certificates <br/> 
 --------------------------
 **< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >** <br/> 
 - _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
 - _**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/> 
+
 
 ### 🏢 Internship Experiences <br/> 
 --------------------------
@@ -84,15 +95,6 @@ _By combining these two methods, my goal is to train agents that can efficiently
 - _**Program** &nbsp;&nbsp; : &nbsp;&nbsp; AI Leadership Program for Manufacturing_ <br/>
 - _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; LG Electronics Employees_ <br/> <br/>
 
-### 📃 Personal Information <br/>
--------------------------
-- _**Name** &nbsp;&nbsp; : &nbsp;&nbsp; Seungho Baek_ <br/>
-- _**Date of Birth** &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09_ <br/>
-- _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
-- _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea_ <br/>
-- _**Phone Number** &nbsp;&nbsp; : &nbsp;&nbsp; 010-4141-5624_ <br/>
-- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@naver.com_ <br/>
-- _**GitHub Repository** &nbsp;&nbsp; : &nbsp;&nbsp; [https://github.com/qortmdgh4141](https://github.com/qortmdgh4141)_ <br/> <br/>
 
 ### 📊 Github Card's for Fun <br/>
 -------------------------
