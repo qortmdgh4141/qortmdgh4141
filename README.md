@@ -1,7 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqortmdgh4141&count_bg=%23000000&title_bg=%23050505&icon=awesomelists.svg&icon_color=%23FAF4F4&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 #### Hello, I'm Seungho Baek 👋  
-I am currently pursuing my master's degree in the Software Department at Sungkyunkwan University. My research primarily focuses on Offline Goal-Conditioned Reinforcement Learning (GCRL), aiming to train agents to perform complex robotic manipulation and navigation tasks in the real world. <br/> <br/>
+
+I am conducting research on Offline Goal-Conditioned Reinforcement Learning (GCRL) with a focus on developing agents that can perform complex robotic manipulation and navigation tasks. <br/> <br/> 
+First, Offline RL differs from online reinforcement learning in that it uses pre-collected data for training, rather than relying on real-time interactions with the environment. This approach reduces the costs and risks associated with interacting directly with the environment.<br/> 
+Second, GCRL offers the advantage of generalization over different goals, allowing the agent to adapt to new objectives without the need for retraining, unlike traditional reinforcement learning, which focuses on fixed goals. <br/> <br/> 
+By combining these two methods, my goal is to train agents that can efficiently set optimal subgoals and reach various subgoals, even in environments with limited interaction opportunities. <br/> <br/> 
+
 
 ### 🏫 Education <br/> 
 --------------------------
