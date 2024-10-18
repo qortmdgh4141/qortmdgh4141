@@ -14,7 +14,7 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 **< &nbsp; 2023.08.28 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** 
 - _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Sungkyunkwan University_ <br/> 
 - _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Master_ <br/>
-- _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/> <br/>
+- _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
 - _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.3/4.5_ <br/> <br/>
   
 ### 🎓 Research Achievements <br/> 
