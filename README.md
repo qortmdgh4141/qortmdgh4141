@@ -29,7 +29,7 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 
 **< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Calibrated subgoal generation for Offline HRL_ <br/> 
-- _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; IJCAI (International Joint Conference on Artificial Intelligence)_ <br/> <br/>
+- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; IJCAI (International Joint Conference on Artificial Intelligence)_ <br/> <br/>
 
 ### 🥈 Certificate <br/> 
 --------------------------
