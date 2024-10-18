@@ -70,15 +70,16 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 - _**Program** &nbsp;&nbsp; : &nbsp;&nbsp; AI Leadership Program for Manufacturing_ <br/>
 - _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; LG Electronics Employees_ <br/> <br/>
 
+### 📃 Personal Information <br/>
+-------------------------
+- _**Name** &nbsp;&nbsp; : &nbsp;&nbsp; Seungho Baek_ <br/>
+- _**Date of Birth** &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09_ <br/>
+- _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
+- _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea_ <br/>
+- _**Phone Number** &nbsp;&nbsp; : &nbsp;&nbsp; 010-4141-5624_ <br/>
+- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@naver.com_ <br/>
+- _**GitHub Repository** &nbsp;&nbsp; : &nbsp;&nbsp; [https://github.com/qortmdgh4141](https://github.com/qortmdgh4141)_ <br/> <br/>
+
 ### 📊 Github Card's for Fun <br/>
 -------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&exclude_repo=github-readme-stats&hide=Shell,Dockerfile,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) <br/> <br/> 
-
-### 📃 Information <br/>
--------------------------
-Date of Birth &nbsp; : &nbsp; 1998.11.09 <br/>
-Military Service Status &nbsp; : &nbsp; Fulfilled <br/>
-Residence &nbsp; : &nbsp; Gyeonggi-do, Republic of Korea <br/>
-Phone Number &nbsp; : &nbsp; 010-4141-5624 <br/>
-E-Mail &nbsp; : &nbsp; qortmdgh4141@naver.com  <br/> <br/> 
-
