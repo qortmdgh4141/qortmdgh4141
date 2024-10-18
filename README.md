@@ -56,19 +56,19 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 --------------------------
 **< &nbsp; 2023.09.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/>
 - _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Data Analysis_ <br/>
-- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate students at Sungkyunkwan University_ <br/> <br/>
+- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
 
 **< &nbsp; 2024.03.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.06.27 &nbsp; >** <br/>
 - _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Reinforcement Learning_ <br/>
-- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate and graduate students at Sungkyunkwan University_ <br/> <br/>
+- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate and Graduate Students at Sungkyunkwan University_ <br/> <br/>
 
 **< &nbsp; 2024.10.15 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.10.16 &nbsp; >** <br/>
 - _**Program** &nbsp;&nbsp; : &nbsp;&nbsp; National Defense AI Education_ <br/>
-- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; South Korean military personnel_ <br/> <br/>
+- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; South Korean Military Personnel_ <br/> <br/>
 
 **< &nbsp; 2024.11.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.11.14 &nbsp; >** <br/>
 - _**Program** &nbsp;&nbsp; : &nbsp;&nbsp; AI Leadership Program for Manufacturing_ <br/>
-- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; LG Electronics employees_ <br/> <br/>
+- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; LG Electronics Employees_ <br/> <br/>
 
 ### 📊 Github Card's for Fun <br/>
 -------------------------
