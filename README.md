@@ -2,7 +2,7 @@
 
 #### Hello, I'm Seungho Baek 👋  
 
-I am currently pursuing my master's degree in the Software Department at Sungkyunkwan University. My research primarily focuses on Offline GCRL (Goal-Conditioned Reinforcement Learning), aiming to train agents to perform complex robotic manipulation and navigation tasks in the real world. <br/> <br/> 
+I am currently pursuing my master's degree in the Software Department at Sungkyunkwan University. My research primarily focuses on Offline Goal-Conditioned Reinforcement Learning (GCRL), aiming to train agents to perform complex robotic manipulation and navigation tasks in the real world. <br/> <br/> 
 
 
 ### 📃 Personal Information <br/>
@@ -33,8 +33,12 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 - _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; JCMC (Journal of Clinical Monitoring and Computing)_ <br/> <br/>
 
 **< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
-- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Calibrated subgoal generation for Offline HRL_ <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Temporal Distance-Aware Subgoal Generation for Offline Hierarchical Reinforcement Learning_ <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; IJCAI (International Joint Conference on Artificial Intelligence)_ <br/> <br/>
+
+**< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning_ <br/> 
+- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ICML (International Conference on Machine Learning)_ <br/> <br/>
 
 
 ### 🏫 Education <br/> 
@@ -50,7 +54,7 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 - _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Sungkyunkwan University_ <br/> 
 - _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Master_ <br/>
 - _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
-- _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.3/4.5_ <br/>
+- _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.2/4.5_ <br/>
 - _**Laboratory** &nbsp;&nbsp; : &nbsp;&nbsp; CSI (Computer Systems and Intelligence) Lab, SKKU_ <br/> 
 - _**Advisor** &nbsp;&nbsp; : &nbsp;&nbsp; Prof. Yusung Kim_ <br/> <br/>
 
