@@ -1,24 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=👨‍💻💻👾&animation=twinkling&height=100&fontAlign=80)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+Seungho's+GitHub!&nbsp;)](https://git.io/typing-svg)
+
+
 #### Hello, I'm Seungho Baek 👋  
 
 I am currently pursuing my master's degree in the Software Department at Sungkyunkwan University. My research primarily focuses on Offline Goal-Conditioned Reinforcement Learning (GCRL), aiming to train agents to perform complex robotic manipulation and navigation tasks in the real world. <br/> <br/> 
 
-
-### 📃 Personal Information <br/>
--------------------------
-- _**Name** &nbsp;&nbsp; : &nbsp;&nbsp; Seungho Baek_ <br/>
-- _**Date of Birth** &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09_ <br/>
-- _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
-- _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea_ <br/>
-- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@g.skku.edu (academic), qortmdgh4141@naver.com (personal)_ <br/>
-
 ### 📚 Research Interests <br/> 
 --------------------------
 
-_I am conducting research on Offline GCRL with a focus on developing agents that can perform complex robotic manipulation and navigation tasks. First, Offline RL differs from Online RL that it uses pre-collected data for training, rather than relying on real-time interactions with the environment. This approach reduces the costs and risks associated with interacting directly with the environment. Second, GCRL offers the advantage of generalization over different goals, allowing the agent to adapt to new objectives without the need for retraining, unlike traditional RL, which focuses on fixed goals. By combining these two methods, my goal is to train agents that can efficiently set optimal subgoals and reach various subgoals, even in environments with limited interaction opportunities._ <br/> <br/> 
+_I am conducting research on Offline GCRL with a focus on developing agents that can perform complex robotic manipulation and navigation tasks. First, Offline RL differs from Online RL that it uses pre-collected data for training, rather than relying on real-time interactions with the environment. This approach reduces the costs and risks associated with interacting directly with the environment. Second, GCRL offers the advantage of generalization over different goals, allowing the agent to adapt to new objectives without the need for retraining, unlike traditional RL, which focuses on fixed goals. By combining these two methods, my goal is to train agents that can efficiently set optimal subgoals and reach various subgoals, even in environments with limited interaction opportunities._ 
 
+> **Research Keywords**: Offline RL, Goal-Conditioned RL, Hierarchical RL, Graph-based RL
+> 
+<br/>  
 
 ### 🎓 Publications <br/> 
 --------------------------
@@ -41,6 +37,14 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; CIKM (Conference on Information and Knowledge Management)_ <br/> 
 - _**Note**_: &nbsp;&nbsp; : &nbsp;&nbsp; Top-tier AI conference (BK=3) <br/><br/>
 
+
+### 🥈 Certificates <br/> 
+--------------------------
+**< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >** <br/> 
+- _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
+- _**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/> 
+
+
 ### 🏫 Education <br/> 
 --------------------------
 **< &nbsp; 2017.03.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.02.17 &nbsp; >** 
@@ -57,28 +61,6 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 - _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.2/4.5_ <br/>
 - _**Laboratory** &nbsp;&nbsp; : &nbsp;&nbsp; CSI (Computer Systems and Intelligence) Lab, SKKU_ <br/> 
 - _**Advisor** &nbsp;&nbsp; : &nbsp;&nbsp; Prof. Yusung Kim_ <br/> <br/>
-
-
-### 🥈 Certificates <br/> 
---------------------------
-**< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >** <br/> 
-- _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
-- _**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/> 
-
-
-### 🏢 Internship Experiences <br/> 
---------------------------
-**< &nbsp; 2021.07.05 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.27 &nbsp; >** <br/> 
-- _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; SuperBin_ <br/> 
-- _**Intern Work**_  &nbsp;&nbsp; : &nbsp;&nbsp; _Data Collection_  /  _Data Preprocessing_ <br/> <br/> 
-  
-**< &nbsp; 2022.07.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.09.04 &nbsp; >** <br/> 
-- _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; Consquare_ <br/> 
-- _**Intern Work**_  &nbsp;&nbsp; : &nbsp;&nbsp; _Exploratory Data Analysis_  /  _AI Model Development_ <br/> <br/>
-    
-**< &nbsp; 2023.04.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.08.27 &nbsp; >** <br/> 
-- _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; AI Convergence Institute at Sungkyunkwan University_ <br/> 
-- _**Intern Work**  &nbsp;&nbsp; : &nbsp;&nbsp; Data Collection  /  Data Preprocessing  /  Exploratory Data Analysis  /  AI Model Development_ <br/> <br/>
 
 
 ### 👨‍🏫 Teaching & Mentoring Experiences <br/>
@@ -100,6 +82,21 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 - _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; LG Electronics Employees_ <br/> <br/>
 
 
+### 🏢 Internship Experiences <br/> 
+--------------------------
+**< &nbsp; 2021.07.05 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2021.10.27 &nbsp; >** <br/> 
+- _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; SuperBin_ <br/> 
+- _**Intern Work**_  &nbsp;&nbsp; : &nbsp;&nbsp; _Data Collection_  /  _Data Preprocessing_ <br/> <br/> 
+  
+**< &nbsp; 2022.07.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.09.04 &nbsp; >** <br/> 
+- _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; Consquare_ <br/> 
+- _**Intern Work**_  &nbsp;&nbsp; : &nbsp;&nbsp; _Exploratory Data Analysis_  /  _AI Model Development_ <br/> <br/>
+    
+**< &nbsp; 2023.04.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.08.27 &nbsp; >** <br/> 
+- _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; AI Convergence Institute at Sungkyunkwan University_ <br/> 
+- _**Intern Work**  &nbsp;&nbsp; : &nbsp;&nbsp; Data Collection  /  Data Preprocessing  /  Exploratory Data Analysis  /  AI Model Development_ <br/> <br/>
+
+
 ### 📊 Github Stats <br/>
 -------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&layout=compact&hide=Jupyter%20Notebook,Dockerfile,Shell&langs_count=10)
@@ -107,6 +104,16 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 [![qortmdgh4141's GitHub stats](https://github-readme-stats.vercel.app/api?username=qortmdgh4141&show_icons=true&rank_icon=github&hide=prs,contribs&include_all_commits=true&count_private=true)](https://github.com/qortmdgh4141)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qortmdgh4141&theme=flat&title=Experience,Repositories,Issues,Followers,Reviews&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+### 📃 Personal Information <br/>
+-------------------------
+- _**Name** &nbsp;&nbsp; : &nbsp;&nbsp; Seungho Baek_ <br/>
+- _**Date of Birth** &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09_ <br/>
+- _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
+- _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea_ <br/>
+- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@g.skku.edu (academic), qortmdgh4141@naver.com (personal)_ <br/> <br/>
 
 
 <br/> <br/> 
