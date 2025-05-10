@@ -1,4 +1,14 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqortmdgh4141&count_bg=%23000000&title_bg=%23050505&icon=awesomelists.svg&icon_color=%23FAF4F4&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Seungo's+GitHub!👋)](https://git.io/typing-svg)
+ 
+<br/>
 
 #### Hello, I'm Seungho Baek 👋  
 
@@ -99,6 +109,16 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 - _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; LG Electronics Employees_ <br/> <br/>
 
 
-### 📊 Github Card's for Fun <br/>
+### 📊 Github Stats <br/>
 -------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&exclude_repo=github-readme-stats&hide=Shell,Dockerfile,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) <br/> <br/> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=qortmdgh4141&theme=tokyonight&no=issues,reviews,stars&rank=A,B,S&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![qortmdgh4141's GitHub stats](https://github-readme-stats.vercel.app/api?username=qortmdgh4141&show_icons=true&rank_icon=github&hide=prs&include_all_commits=true&count_private=true)](https://github.com/qortmdgh4141) 
+
+[![qortmdgh4141's GitHub stats](https://github-readme-stats.vercel.app/api?username=qortmdgh4141&show_icons=true&rank_icon=github&hide=prs,contribs&include_all_commits=true&count_private=true)](https://github.com/qortmdgh4141)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&layout=compact&hide=Jupyter%20Notebook,Dockerfile,Shell&langs_count=10)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=qortmdgh4141&theme=tokyonight&no=commits,stars,issues,pullrequests,contributions,gists,watching,discussions_started,discussions_answered,code_review,prs_merged,stars_received&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/> <br/> 
