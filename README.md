@@ -11,7 +11,7 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 - _**Date of Birth** &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09_ <br/>
 - _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
 - _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea_ <br/>
-- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@naver.com or qortmdgh4141@g.skku.edu_ <br/>
+- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@g.skku.edu (academic), qortmdgh4141@naver.com (personal)_ <br/>
 
 ### 📚 Research Interests <br/> 
 --------------------------
