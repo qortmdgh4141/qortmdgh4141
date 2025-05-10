@@ -103,14 +103,11 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 
 ### 📊 Github Stats <br/>
 -------------------------
-[![trophy](https://github-profile-trophy.vercel.app/?username=qortmdgh4141&theme=tokyonight&no=issues,reviews,stars&rank=A,B,S&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![qortmdgh4141's GitHub stats](https://github-readme-stats.vercel.app/api?username=qortmdgh4141&show_icons=true&rank_icon=github&hide=prs&include_all_commits=true&count_private=true)](https://github.com/qortmdgh4141) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&layout=compact&hide=Jupyter%20Notebook,Dockerfile,Shell&langs_count=10)
 
 [![qortmdgh4141's GitHub stats](https://github-readme-stats.vercel.app/api?username=qortmdgh4141&show_icons=true&rank_icon=github&hide=prs,contribs&include_all_commits=true&count_private=true)](https://github.com/qortmdgh4141)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&layout=compact&hide=Jupyter%20Notebook,Dockerfile,Shell&langs_count=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=qortmdgh4141&theme=flat&title=Experience,Repositories,Issues,Followers,Reviews&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qortmdgh4141&theme=tokyonight&no=commits,stars,issues,pullrequests,contributions,gists,watching,discussions_started,discussions_answered,code_review,prs_merged,stars_received&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/> <br/> 
