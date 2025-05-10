@@ -11,10 +11,7 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 - _**Date of Birth** &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09_ <br/>
 - _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
 - _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea_ <br/>
-- _**Phone Number** &nbsp;&nbsp; : &nbsp;&nbsp; 010-4141-5624_ <br/>
-- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@naver.com_ <br/>
-- _**GitHub Repository** &nbsp;&nbsp; : &nbsp;&nbsp; [https://github.com/qortmdgh4141](https://github.com/qortmdgh4141)_ <br/> <br/>
-
+- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@naver.com or qortmdgh4141@g.skku.edu_ <br/>
 
 ### 📚 Research Interests <br/> 
 --------------------------
@@ -26,20 +23,22 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 --------------------------
 **< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.11.30 &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety, “Smart Eye"_ <br/> 
-- _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; KIPS (Korea Information Processing Society)_ <br/> <br/>
+- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; KIPS (Korea Information Processing Society)_ <br/> <br/>
 
 **< &nbsp; 2023.02.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.08.31 &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Prediction of intraoperative hypotension using deep learning models based on non-invasive monitoring devices_ <br/> 
-- _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; JCMC (Journal of Clinical Monitoring and Computing)_ <br/> <br/>
-
-**< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
-- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Temporal Distance-Aware Subgoal Generation for Offline Hierarchical Reinforcement Learning_ <br/> 
-- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; IJCAI (International Joint Conference on Artificial Intelligence)_ <br/> <br/>
+- _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; JCMC (Journal of Clinical Monitoring and Computing)_ <br/>
+- _**Note**_ &nbsp;&nbsp; : &nbsp;&nbsp; SCIE journal (IF=2.0) <br/><br/>
 
 **< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning_ <br/> 
-- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ICML (International Conference on Machine Learning)_ <br/> <br/>
+- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ICML (International Conference on Machine Learning)_ <br/> 
+- _**Not**e_: &nbsp;&nbsp; : &nbsp;&nbsp; Top-tier ML conference (BK=4) <br/><br/>
 
+**< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Temporal Distance-Aware Subgoal Generation for Offline Hierarchical Reinforcement Learning_ <br/> 
+- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; CIKM (Conference on Information and Knowledge Management)_ <br/> 
+- _**Note**_: &nbsp;&nbsp; : &nbsp;&nbsp; Top-tier AI conference (BK=3) <br/><br/>
 
 ### 🏫 Education <br/> 
 --------------------------
@@ -87,7 +86,7 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 - _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Data Analysis_ <br/>
 - _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
 
-**< &nbsp; 2024.03.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.06.27 &nbsp; >** <br/>
+**< &nbsp; 2024.03.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/>
 - _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Reinforcement Learning_ <br/>
 - _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate and Graduate Students at Sungkyunkwan University_ <br/> <br/>
 
