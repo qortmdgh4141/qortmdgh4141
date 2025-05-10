@@ -1,15 +1,7 @@
-
-
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Seungo's+GitHub!👋)](https://git.io/typing-svg)
  
-<br/>
-
 #### Hello, I'm Seungho Baek 👋  
 
 I am currently pursuing my master's degree in the Software Department at Sungkyunkwan University. My research primarily focuses on Offline Goal-Conditioned Reinforcement Learning (GCRL), aiming to train agents to perform complex robotic manipulation and navigation tasks in the real world. <br/> <br/> 
