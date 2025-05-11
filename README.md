@@ -122,5 +122,4 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 - _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea_ <br/>
 - _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@g.skku.edu (academic), qortmdgh4141@naver.com (personal)_ <br/> <br/>
 
-
-<br/> <br/> 
+<br/> 
