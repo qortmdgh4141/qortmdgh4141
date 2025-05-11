@@ -10,7 +10,7 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 ### 📚 Research Interests <br/> 
 --------------------------
 
-_I am conducting research on Offline GCRL with a focus on developing agents that can perform complex robotic manipulation and navigation tasks. First, Offline RL differs from Online RL that it uses pre-collected data for training, rather than relying on real-time interactions with the environment. This approach reduces the costs and risks associated with interacting directly with the environment. Second, GCRL offers the advantage of generalization over different goals, allowing the agent to adapt to new objectives without the need for retraining, unlike traditional RL, which focuses on fixed goals. By combining these two methods, my goal is to train agents that can efficiently set optimal subgoals and reach various subgoals, even in environments with limited interaction opportunities._ 
+_I am conducting research on Offline GCRL with a focus on developing agents that can perform complex robotic manipulation and navigation tasks. First, Offline RL differs from Online RL in that it uses pre-collected data for training, rather than relying on real-time interactions with the environment. This approach reduces the costs and risks associated with interacting directly with the environment. Second, GCRL offers the advantage of generalization over different goals, allowing the agent to adapt to new objectives without the need for retraining, unlike traditional RL, which focuses on fixed goals. By combining these two methods, my goal is to train agents that can efficiently set optimal subgoals. This enables agents to reach diverse goals even in environments with limited interaction opportunities._ 
 
 **My research is motivated by the following core challenges in Offline GCRL:**
 
@@ -37,7 +37,7 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 **< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning_ <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ICML (International Conference on Machine Learning)_ <br/> 
-- _**Not**e_: &nbsp;&nbsp; : &nbsp;&nbsp; Top-tier ML conference (BK=4) <br/><br/>
+- _**Note**_: &nbsp;&nbsp; : &nbsp;&nbsp; Top-tier ML conference (BK=4) <br/><br/>
 
 **< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Temporal Distance-Aware Subgoal Generation for Offline Hierarchical Reinforcement Learning_ <br/> 
