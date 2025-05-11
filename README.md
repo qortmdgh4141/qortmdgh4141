@@ -12,7 +12,14 @@ I am currently pursuing my master's degree in the Software Department at Sungkyu
 
 _I am conducting research on Offline GCRL with a focus on developing agents that can perform complex robotic manipulation and navigation tasks. First, Offline RL differs from Online RL that it uses pre-collected data for training, rather than relying on real-time interactions with the environment. This approach reduces the costs and risks associated with interacting directly with the environment. Second, GCRL offers the advantage of generalization over different goals, allowing the agent to adapt to new objectives without the need for retraining, unlike traditional RL, which focuses on fixed goals. By combining these two methods, my goal is to train agents that can efficiently set optimal subgoals and reach various subgoals, even in environments with limited interaction opportunities._ 
 
-> **Research Keywords**: Offline RL, Goal-Conditioned RL, Hierarchical RL, Graph-based RL
+**My research is motivated by the following core challenges in offline goal-conditioned learning:**
+
+- Learning robustly from suboptimal datasets  
+- Solving long-horizon tasks from reward-free datasets  
+- Transferring knowledge across diverse trajectories  
+- Discovering generalizable goal representations
+  
+> **Research Keywords**: &nbsp; Offline RL · Unsupervised RL · Multitask RL · Goal-Conditioned RL · Hierarchical RL · Graph-based RL
 > 
 <br/>  
 
