@@ -37,12 +37,12 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 **< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning_ <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ICML (International Conference on Machine Learning)_ <br/> 
-- _**Note**_: &nbsp;&nbsp; : &nbsp;&nbsp; Top-tier ML conference (BK=4) <br/><br/>
+- _**Note**_&nbsp;&nbsp; : &nbsp;&nbsp; Top-tier ML conference (BK=4) <br/><br/>
 
 **< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Temporal Distance-Aware Subgoal Generation for Offline Hierarchical Reinforcement Learning_ <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; CIKM (Conference on Information and Knowledge Management)_ <br/> 
-- _**Note**_: &nbsp;&nbsp; : &nbsp;&nbsp; Top-tier AI conference (BK=3) <br/><br/>
+- _**Note**_&nbsp;&nbsp; : &nbsp;&nbsp; Top-tier AI conference (BK=3) <br/><br/>
 
 
 ### 🥈 Certificates <br/> 
@@ -55,7 +55,7 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 ### 🏫 Education <br/> 
 --------------------------
 **< &nbsp; 2017.03.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.02.17 &nbsp; >** 
-- _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Hyupseong University_ <br/> 
+- _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Hyupsung University_ <br/> 
 - _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Bachelor_ <br/>
 - _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
 - _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.0/4.5_ <br/>  
