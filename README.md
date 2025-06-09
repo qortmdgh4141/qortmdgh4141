@@ -120,4 +120,5 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 - _**Date of Birth** &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09_ <br/>
 - _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
 - _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Gyeonggi-do, Republic of Korea_ <br/>
-- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@g.skku.edu (academic), qortmdgh4141@naver.com (personal)_ <br/> <br/>
+- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@g.skku.edu (academic), qortmdgh4141@naver.com (personal)_<br/>
+- _**Google Scholar** &nbsp;&nbsp; : &nbsp;&nbsp; [Seungho Baek](https://scholar.google.com/citations?user=8caBZdwAAAAJ)_ <br/> <br/>
