@@ -19,7 +19,7 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 - Transferring knowledge across diverse trajectories  
 - Discovering generalizable goal representations
   
-> **Research Keywords**: &nbsp; Offline RL · Unsupervised RL · Multitask RL · Goal-Conditioned RL · Hierarchical RL · Graph-based RL
+> **Research Keywords**: &nbsp; Offline RL · Unsupervised RL · Multitask RL · Goal-Conditioned RL · Hierarchical RL
 > 
 <br/>  
 
