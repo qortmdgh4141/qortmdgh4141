@@ -99,7 +99,7 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 --------------------------
 **< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >** <br/> 
 - _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
-- _**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/>
+- _**Issued by**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/>
 
   
 ### 📊 Github Stats <br/>
