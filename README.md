@@ -26,7 +26,7 @@ _I am conducting research on Offline GCRL with a focus on developing agents that
 ### 🎓 Publications <br/> 
 --------------------------
 **< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.11.30 &nbsp; >** <br/> 
-- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety, “Smart Eye"_ <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety_ <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; KIPS (Korea Information Processing Society)_ <br/> <br/>
 
 **< &nbsp; 2023.02.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.08.31 &nbsp; >** <br/> 
