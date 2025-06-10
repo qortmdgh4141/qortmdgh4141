@@ -43,12 +43,6 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 <!-- - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; CIKM (Conference on Information and Knowledge Management)_ <br/> -->
 <!-- - _**Note**_&nbsp;&nbsp; : &nbsp;&nbsp; Top-tier AI conference (BK=3) <br/><br/> -->
 
-### 🥈 Certificates <br/> 
---------------------------
-**< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >** <br/> 
-- _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
-- _**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/> 
-
 
 ### 🏫 Education <br/> 
 --------------------------
@@ -101,6 +95,13 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 - _**Intern Work**  &nbsp;&nbsp; : &nbsp;&nbsp; Data Collection  /  Data Preprocessing  /  Exploratory Data Analysis  /  AI Model Development_ <br/> <br/>
 
 
+### 🥈 Certificates <br/> 
+--------------------------
+**< &nbsp; 2022.04.09 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.07.08 &nbsp; >** <br/> 
+- _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
+- _**Host Organization**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/>
+
+  
 ### 📊 Github Stats <br/>
 -------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&layout=compact&hide=Jupyter%20Notebook,Dockerfile,Shell&langs_count=10)
