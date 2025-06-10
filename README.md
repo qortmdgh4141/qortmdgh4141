@@ -64,7 +64,6 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 - _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Master_ <br/>
 - _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
 - _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.2/4.5_ <br/>
-- _**Laboratory** &nbsp;&nbsp; : &nbsp;&nbsp; CSI (Computer Systems and Intelligence) Lab, SKKU_ <br/> 
 - _**Advisor** &nbsp;&nbsp; : &nbsp;&nbsp; Prof. Yusung Kim_ <br/> <br/>
 
 
