@@ -2,22 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+Seungho's+GitHub!&nbsp;)](https://git.io/typing-svg)
 
-
 #### Hello, I'm Seungho Baek 👋  
 
-I am currently pursuing my master's degree in the Software Department at Sungkyunkwan University. My research primarily focuses on Offline Goal-Conditioned Reinforcement Learning (GCRL), aiming to train agents to perform complex robotic manipulation and navigation tasks in the real world. <br/> <br/> 
+I'm a master's degree student at Sungkyunkwan University, advised by [Prof. Yusung Kim](https://sites.google.com/view/yskim525). <br/> <br/> 
 
 ### 📚 Research Interests <br/> 
 --------------------------
 
-_I am conducting research on Offline GCRL with a focus on developing agents that can perform complex robotic manipulation and navigation tasks. First, Offline RL differs from Online RL in that it uses pre-collected data for training, rather than relying on real-time interactions with the environment. This approach reduces the costs and risks associated with interacting directly with the environment. Second, GCRL offers the advantage of generalization over different goals, allowing the agent to adapt to new objectives without the need for retraining, unlike traditional RL, which focuses on fixed goals. By combining these two methods, my goal is to train agents that can efficiently set optimal subgoals. This enables agents to reach diverse goals even in environments with limited interaction opportunities._ 
+_My research primarily focuses on Reinforcement Learning (RL), specifically within two main areas: Offline RL and hierarchical RL. Initially, my research was centered on enhancing the agent’s long-horizon reasoning and stitching ability by formulating subgoal selection as a graph search problem rather than learning explicit high-level policy. I've also contributed by developing a framework that leverages temporal distance representations to improve offline hierarchical RL, particularly in settings with sparse rewards and suboptimal data. Recently, I’ve expanded into online RL, investigating how to enable efficient policy learning using a small amount of expert data combined with dense rewards shaped by a temporal distance representation._
 
-**My research is motivated by the following core challenges in Offline GCRL:**
-
+**Ultimately, my goal is to address the following key challenges in offline reinforcement learning:**
 - Learning robustly from suboptimal datasets  
-- Solving long-horizon tasks from reward-free datasets  
+- Solving long-horizon tasks with sparse rewards  
 - Transferring knowledge across diverse trajectories  
-- Discovering generalizable goal representations
+- Discovering skills for generalization
   
 > **Research Keywords**: &nbsp; Reinforcement Learning · Offline RL · Unsupervised RL · Goal-Conditioned RL · Hierarchical RL
 > 
