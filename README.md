@@ -4,7 +4,7 @@
 
 #### Hello, I'm Seungho Baek 👋  
 
-I'm an M.S. student at Sungkyunkwan University, advised by [Prof. Yusung Kim](https://sites.google.com/view/yskim525).  
+I'm an M.S. student at Sungkyunkwan University (SKKU), advised by [Prof. Yusung Kim](https://sites.google.com/view/yskim525).  
 
 You can also find me on:  
 
