@@ -117,10 +117,11 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 - _**Issued by**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/>
 
 
-### 📃 Personal Information <br/>
+### 📃 Profile <br/>
 -------------------------
 - _**Date of Birth** &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09_ <br/>
 - _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
+- _**Languages** &nbsp;&nbsp; : &nbsp;&nbsp; Korean (Native) / English_ <br/>
 - _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Anyang-si, Gyeonggi-do, Republic of Korea_ <br/> <br/>
 
 
