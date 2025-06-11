@@ -14,8 +14,7 @@ You can also find me on:
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dopa____mine)  <br/> 
 > ✉️ **E-Mail**: [qortmdgh4141@g.skku.edu](mailto:qortmdgh4141@g.skku.edu) (academic), [qortmdgh4141@naver.com](mailto:qortmdgh4141@naver.com) (personal)
 
-
-<br/> <br/> <br/> 
+<br/>
 
 ### 📚 Research Interests <br/> 
 --------------------------
