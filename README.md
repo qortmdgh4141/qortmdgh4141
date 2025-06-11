@@ -34,23 +34,27 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 ### 🎓 Publications <br/> 
 --------------------------
 **< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
-- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Temporal Distance-Aware Subgoal Generation for Offline Hierarchical Reinforcement Learning_ <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Temporal Distance-Aware Subgoal Generation for Offline Hierarchical Reinforcement Learning_ <br/>
+- _**Authors** &nbsp;&nbsp; : &nbsp;&nbsp; Taegeon Park, Seungho Baek, Jongchan Park, Seungjun Oh, Yusung Kim_ <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; Preprint_ <br/><br/>
 <!-- - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; CIKM (Conference on Information and Knowledge Management)_ <br/> -->
 <!-- - _**Note**_&nbsp;&nbsp; : &nbsp;&nbsp; Top-tier AI conference (BK=3) <br/><br/> -->
 
 **< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/> 
-- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning_ <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning_ <br/>
+- _**Authors** &nbsp;&nbsp; : &nbsp;&nbsp; Seungho Baek, Taegeon Park, Jongchan Park, Seungjun Oh, Yusung Kim_ <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ICML (International Conference on Machine Learning)_ <br/> 
 - _**Note**_&nbsp;&nbsp; : &nbsp;&nbsp; Top-tier ML conference (BK=4) <br/><br/>
 
 **< &nbsp; 2023.02.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.08.31 &nbsp; >** <br/> 
-- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Prediction of intraoperative hypotension using deep learning models based on non-invasive monitoring devices_ <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Prediction of intraoperative hypotension using deep learning models based on non-invasive monitoring devices_ <br/>
+- _**Authors** &nbsp;&nbsp; : &nbsp;&nbsp; Heejoon Jeong, Donghee Kim, Dong Won Kim, Seungho Baek, Hyung-Chul Lee, Yusung Kim, Hyun Joo Ahn_ <br/>
 - _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; JCMC (Journal of Clinical Monitoring and Computing)_ <br/>
 - _**Note**_ &nbsp;&nbsp; : &nbsp;&nbsp; SCIE journal (IF=2.0) <br/><br/>
 
 **< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.11.30 &nbsp; >** <br/> 
-- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety_ <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety_ <br/>
+- _**Authors** &nbsp;&nbsp; : &nbsp;&nbsp; Seungho Baek, Yeongil Ji, Hansaem Choi_ <br/>
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; KIPS (Korea Information Processing Society)_ <br/> <br/>
 
 
@@ -91,7 +95,7 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 - _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
 
 
-### 🏢 Internship Experiences <br/> 
+### 🏢 Internships <br/> 
 --------------------------
 **< &nbsp; 2023.04.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.08.27 &nbsp; >** <br/> 
 - _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; AI Convergence Institute at Sungkyunkwan University_ <br/> 
