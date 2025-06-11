@@ -17,7 +17,7 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 - Transferring knowledge across diverse trajectories  
 - Discovering skills for generalization
   
-> **Research Keywords**: Reinforcement Learning · Offline RL · Unsupervised RL · Goal-Conditioned RL · Hierarchical RL
+> **Research Keywords**: &nbsp; Offline RL · Unsupervised RL · Goal-Conditioned RL · Hierarchical RL
 > 
 <br/>  
 
