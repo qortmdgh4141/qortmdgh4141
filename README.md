@@ -21,7 +21,7 @@ You can also find me on:
 
 _My research primarily focuses on Reinforcement Learning (RL), specifically within two main areas: offline RL and hierarchical RL. Initially, my research was centered on enhancing the agent’s long-horizon reasoning and stitching ability by formulating subgoal selection as a graph search problem rather than learning explicit high-level policy. I've also contributed by developing a framework that leverages temporal distance representations to improve offline hierarchical RL, particularly in settings with sparse rewards and suboptimal data. Recently, I’ve expanded into online RL, investigating how to enable efficient policy learning using a small amount of expert data combined with dense rewards shaped by a temporal distance representation._
 
-**Ultimately, my goal is to address the following key challenges in offline reinforcement learning:**
+**Ultimately, my goal is to address the following key challenges in offline RL:**
 - Learning robustly from suboptimal datasets  
 - Solving long-horizon tasks with sparse rewards  
 - Transferring knowledge across diverse trajectories  
