@@ -4,7 +4,18 @@
 
 #### Hello, I'm Seungho Baek 👋  
 
-I'm a master's degree student at Sungkyunkwan University, advised by [Prof. Yusung Kim](https://sites.google.com/view/yskim525). <br/> <br/> 
+I'm a master's degree student at Sungkyunkwan University, advised by [Prof. Yusung Kim](https://sites.google.com/view/yskim525).  
+
+You can also find me on:  
+
+> [![Homepage](https://img.shields.io/badge/Homepage-000000?style=flat-square&logo=awesomelists&logoColor=white)](https://qortmdgh4141.github.io/) 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=8caBZdwAAAAJ)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AVz8yMw4a)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dopa____mine)  <br/> 
+> ✉️ **E-Mail**: [qortmdgh4141@g.skku.edu](mailto:qortmdgh4141@g.skku.edu) (academic), [qortmdgh4141@naver.com](mailto:qortmdgh4141@naver.com) (personal)
+
+
+<br/> <br/> <br/> 
 
 ### 📚 Research Interests <br/> 
 --------------------------
@@ -118,6 +129,5 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 - _**Name** &nbsp;&nbsp; : &nbsp;&nbsp; Seungho Baek_ <br/>
 - _**Date of Birth** &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09_ <br/>
 - _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
-- _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Anyang-si, Gyeonggi-do, Republic of Korea_ <br/>
-- _**E-Mail** &nbsp;&nbsp; : &nbsp;&nbsp; qortmdgh4141@g.skku.edu (academic), qortmdgh4141@naver.com (personal)_<br/>
-- _**Google Scholar** &nbsp;&nbsp; : &nbsp;&nbsp; [Seungho Baek](https://scholar.google.com/citations?user=8caBZdwAAAAJ)_ <br/> <br/>
+- _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Anyang-si, Gyeonggi-do, Republic of Korea_ <br/> <br/>
+
