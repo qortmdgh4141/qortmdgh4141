@@ -4,7 +4,7 @@
 
 #### Hello, I'm Seungho Baek 👋  
 
-I'm a master's degree student at Sungkyunkwan University, advised by [Prof. Yusung Kim](https://sites.google.com/view/yskim525).  
+I'm an M.S. student at Sungkyunkwan University, advised by [Prof. Yusung Kim](https://sites.google.com/view/yskim525).  
 
 You can also find me on:  
 
@@ -62,7 +62,7 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 --------------------------
 **< &nbsp; 2023.08.28 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** 
 - _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Sungkyunkwan University_ <br/> 
-- _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Master_ <br/>
+- _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; M.S._ <br/>
 - _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
 - _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.2/4.5_ <br/>
 - _**Advisor** &nbsp;&nbsp; : &nbsp;&nbsp; Prof. Yusung Kim_ <br/> <br/>
@@ -70,7 +70,7 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 
 **< &nbsp; 2017.03.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.02.17 &nbsp; >** 
 - _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Hyupsung University_ <br/> 
-- _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Bachelor_ <br/>
+- _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; B.S._ <br/>
 - _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
 - _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.0/4.5_ <br/>  
 - _**Advisor** &nbsp;&nbsp; : &nbsp;&nbsp; Prof. Hyeseung Park_ <br/> <br/>
