@@ -119,7 +119,6 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 
 ### 📃 Personal Information <br/>
 -------------------------
-- _**Name** &nbsp;&nbsp; : &nbsp;&nbsp; Seungho Baek_ <br/>
 - _**Date of Birth** &nbsp;&nbsp; : &nbsp;&nbsp; 1998.11.09_ <br/>
 - _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
 - _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Anyang-si, Gyeonggi-do, Republic of Korea_ <br/> <br/>
