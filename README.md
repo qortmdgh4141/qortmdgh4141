@@ -76,7 +76,7 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 - _**Advisor** &nbsp;&nbsp; : &nbsp;&nbsp; Prof. Hyeseung Park_ <br/> <br/>
 
 
-### 👨‍🏫 Teaching & Mentoring Experiences <br/>
+### 👨‍🏫 Teaching <br/>
 --------------------------
 **< &nbsp; 2024.11.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.11.14 &nbsp; >** <br/>
 - _**Program** &nbsp;&nbsp; : &nbsp;&nbsp; AI Leadership Program for Manufacturing_ <br/>
