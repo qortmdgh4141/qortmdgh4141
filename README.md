@@ -84,7 +84,7 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 
 **< &nbsp; 2024.03.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/>
 - _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Reinforcement Learning_ <br/>
-- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate and Graduate Students at Sungkyunkwan University_ <br/> <br/>
+- _**Participants** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
 
 **< &nbsp; 2023.09.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/>
 - _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Data Analysis_ <br/>
