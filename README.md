@@ -19,7 +19,7 @@ You can also find me on:
 ### 📚 Research Interests <br/> 
 --------------------------
 
-_My research primarily focuses on Reinforcement Learning (RL), specifically within two main areas: Offline RL and hierarchical RL. Initially, my research was centered on enhancing the agent’s long-horizon reasoning and stitching ability by formulating subgoal selection as a graph search problem rather than learning explicit high-level policy. I've also contributed by developing a framework that leverages temporal distance representations to improve offline hierarchical RL, particularly in settings with sparse rewards and suboptimal data. Recently, I’ve expanded into online RL, investigating how to enable efficient policy learning using a small amount of expert data combined with dense rewards shaped by a temporal distance representation._
+_My research primarily focuses on Reinforcement Learning (RL), specifically within two main areas: offline RL and hierarchical RL. Initially, my research was centered on enhancing the agent’s long-horizon reasoning and stitching ability by formulating subgoal selection as a graph search problem rather than learning explicit high-level policy. I've also contributed by developing a framework that leverages temporal distance representations to improve offline hierarchical RL, particularly in settings with sparse rewards and suboptimal data. Recently, I’ve expanded into online RL, investigating how to enable efficient policy learning using a small amount of expert data combined with dense rewards shaped by a temporal distance representation._
 
 **Ultimately, my goal is to address the following key challenges in offline reinforcement learning:**
 - Learning robustly from suboptimal datasets  
@@ -112,16 +112,6 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 - _**Credential Name** &nbsp;&nbsp; : &nbsp;&nbsp; Engineer Big Data Analysis_ <br/> 
 - _**Issued by**&nbsp;&nbsp; : &nbsp;&nbsp; Ministry of Science and ICT_ <br/> <br/>
 
-  
-### 📊 Github Stats <br/>
--------------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&layout=compact&hide=Jupyter%20Notebook,Dockerfile,Shell&langs_count=10)
-
-[![qortmdgh4141's GitHub stats](https://github-readme-stats.vercel.app/api?username=qortmdgh4141&show_icons=true&rank_icon=github&hide=prs,contribs&include_all_commits=true&count_private=true)](https://github.com/qortmdgh4141)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=qortmdgh4141&theme=flat&title=Experience,Repositories,Commits,Followers,Reviews&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
 
 ### 📃 Personal Information <br/>
 -------------------------
@@ -130,3 +120,13 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 - _**Military Service Status** &nbsp;&nbsp; : &nbsp;&nbsp; Fulfilled_ <br/>
 - _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Anyang-si, Gyeonggi-do, Republic of Korea_ <br/> <br/>
 
+
+### 📊 Github Stats <br/>
+-------------------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&layout=compact&hide=Jupyter%20Notebook,Dockerfile,Shell&langs_count=10)
+
+[![qortmdgh4141's GitHub stats](https://github-readme-stats.vercel.app/api?username=qortmdgh4141&show_icons=true&rank_icon=github&hide=prs,contribs&include_all_commits=true&count_private=true)](https://github.com/qortmdgh4141)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=qortmdgh4141&theme=flat&title=Experience,Repositories,Commits,Followers,Reviews&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/> <br/>
