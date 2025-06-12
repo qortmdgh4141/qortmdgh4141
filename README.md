@@ -44,13 +44,13 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning_ <br/>
 - _**Authors** &nbsp;&nbsp; : &nbsp;&nbsp; Seungho Baek, Taegeon Park, Jongchan Park, Seungjun Oh, Yusung Kim_ <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ICML (International Conference on Machine Learning)_ <br/> 
-- _**Note**_&nbsp;&nbsp; : &nbsp;&nbsp; Top-tier ML conference (BK=4) <br/><br/>
+- _**Note**_&nbsp;&nbsp; : &nbsp;&nbsp; Top-tier ML Conference (BK=4) <br/><br/>
 
 **< &nbsp; 2023.02.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.08.31 &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Prediction of intraoperative hypotension using deep learning models based on non-invasive monitoring devices_ <br/>
 - _**Authors** &nbsp;&nbsp; : &nbsp;&nbsp; Heejoon Jeong, Donghee Kim, Dong Won Kim, Seungho Baek, Hyung-Chul Lee, Yusung Kim, Hyun Joo Ahn_ <br/>
 - _**Journal Name** &nbsp;&nbsp; : &nbsp;&nbsp; JCMC (Journal of Clinical Monitoring and Computing)_ <br/>
-- _**Note**_ &nbsp;&nbsp; : &nbsp;&nbsp; SCIE journal (IF=2.0) <br/><br/>
+- _**Note**_ &nbsp;&nbsp; : &nbsp;&nbsp; SCIE Journal (IF=2.0) <br/><br/>
 
 **< &nbsp; 2021.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2022.11.30 &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Intelligent CCTV for Port Safety_ <br/>
