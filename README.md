@@ -133,4 +133,4 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qortmdgh4141&theme=flat&title=Experience,Repositories,Commits,Followers,Reviews&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/> <br/>
+<br/> 
