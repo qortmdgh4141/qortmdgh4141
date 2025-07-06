@@ -10,6 +10,7 @@ You can also find me on:
 
 > [![Homepage](https://img.shields.io/badge/Homepage-000000?style=flat-square&logo=awesomelists&logoColor=white)](https://qortmdgh4141.github.io/) 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=8caBZdwAAAAJ)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@seungho_baek_skku)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AVz8yMw4a)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dopa____mine)  <br/> 
 > ✉️ **E-Mail**: [qortmdgh4141@g.skku.edu](mailto:qortmdgh4141@g.skku.edu) (academic), [qortmdgh4141@naver.com](mailto:qortmdgh4141@naver.com) (personal)
