@@ -131,5 +131,3 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 
 [![qortmdgh4141's GitHub stats](https://github-readme-stats.vercel.app/api?username=qortmdgh4141&show_icons=true&rank_icon=github&hide=prs,contribs&include_all_commits=true&count_private=true)](https://github.com/qortmdgh4141)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qortmdgh4141&theme=flat&title=Experience,Repositories,Commits,Followers,Reviews&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
