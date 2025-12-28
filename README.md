@@ -124,10 +124,3 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 - _**Languages** &nbsp;&nbsp; : &nbsp;&nbsp; Korean (Native) / English_ <br/>
 - _**Residence** &nbsp;&nbsp; : &nbsp;&nbsp; Anyang-si, Gyeonggi-do, Republic of Korea_ <br/> <br/>
 
-
-### 📊 Github Stats <br/>
--------------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qortmdgh4141&layout=compact&hide=Jupyter%20Notebook,Dockerfile,Shell&langs_count=10)
-
-[![qortmdgh4141's GitHub stats](https://github-readme-stats.vercel.app/api?username=qortmdgh4141&show_icons=true&rank_icon=github&hide=prs,contribs&include_all_commits=true&count_private=true)](https://github.com/qortmdgh4141)
-
