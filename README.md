@@ -60,13 +60,18 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 
 ### 🏫 Education <br/> 
 --------------------------
-**< &nbsp; 2023.08.28 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** 
+**< &nbsp; 2026.03.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >**
+- _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Sungkyunkwan University_ <br/>
+- _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Ph.D._ <br/>
+- _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Artificial Intelligence_ <br/>
+- _**Advisor** &nbsp;&nbsp; : &nbsp;&nbsp; Prof. Yusung Kim_ <br/> <br/>
+
+**< &nbsp; 2023.08.28 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2026.02.25 &nbsp; >** 
 - _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Sungkyunkwan University_ <br/> 
 - _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; M.S._ <br/>
 - _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Software Engineering_ <br/>
 - _**GPA/Scale** &nbsp;&nbsp; : &nbsp;&nbsp; 4.2/4.5_ <br/>
 - _**Advisor** &nbsp;&nbsp; : &nbsp;&nbsp; Prof. Yusung Kim_ <br/> <br/>
-
 
 **< &nbsp; 2017.03.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.02.17 &nbsp; >** 
 - _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Hyupsung University_ <br/> 
