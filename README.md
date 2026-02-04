@@ -97,7 +97,7 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 
 ### 🏢 Internships <br/> 
 --------------------------
-**< &nbsp; 2023.04.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2023.08.27 &nbsp; >** <br/> 
+**< &nbsp; 2023.04.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2026.02.28 &nbsp; >** <br/> 
 - _**Company Name** &nbsp;&nbsp; : &nbsp;&nbsp; Sungkyun AI Research Institute_ <br/> 
 - _**Intern Work**  &nbsp;&nbsp; : &nbsp;&nbsp; Data Collection  /  Data Preprocessing  /  Exploratory Data Analysis  /  AI Model Development_ <br/> <br/>
 
