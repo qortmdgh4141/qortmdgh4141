@@ -83,6 +83,18 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 
 ### 👨‍🏫 Teaching <br/>
 --------------------------
+**< &nbsp; 2026.03.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/>
+- _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Data Analysis and AI_ <br/>
+- _**Audience** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
+
+**< &nbsp; 2023.09.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2025.12.23 &nbsp; >** <br/>
+- _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Data Analysis_ <br/>
+- _**Audience** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
+
+**< &nbsp; 2024.03.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2025.06.28 &nbsp; >** <br/>
+- _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Reinforcement Learning_ <br/>
+- _**Audience** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
+
 **< &nbsp; 2024.11.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.11.14 &nbsp; >** <br/>
 - _**Program** &nbsp;&nbsp; : &nbsp;&nbsp; AI Leadership Program for Manufacturing_ <br/>
 - _**Attendees** &nbsp;&nbsp; : &nbsp;&nbsp; LG Electronics Employees_ <br/> <br/>
@@ -90,14 +102,6 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 **< &nbsp; 2024.10.15 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.10.16 &nbsp; >** <br/>
 - _**Program** &nbsp;&nbsp; : &nbsp;&nbsp; National Defense AI Education_ <br/>
 - _**Attendees** &nbsp;&nbsp; : &nbsp;&nbsp; South Korean Military Personnel_ <br/> <br/>
-
-**< &nbsp; 2024.03.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/>
-- _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Reinforcement Learning_ <br/>
-- _**Audience** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
-
-**< &nbsp; 2023.09.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/>
-- _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Data Analysis_ <br/>
-- _**Audience** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
 
 
 ### 🏢 Internships <br/> 
