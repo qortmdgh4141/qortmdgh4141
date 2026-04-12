@@ -19,7 +19,7 @@ You can also find me on:
 
 ### 📚 Research Interests <br/> 
 --------------------------
-_I'm interested in developing **reinforcement learning (rl)** algorithms for long-horizon and sparse-reward tasks, and applying them to real-world robotic control. The question that drives me these days is: **how can we effectively combine foundation models with rl?** More specifically, my goal is to design off-policy q-learning methods that improve the long-horizon reasoning abilities of foundation models for robot control._
+I'm interested in developing **reinforcement learning (rl)** algorithms for long-horizon and sparse-reward tasks, and applying them to real-world robotic control. The question that drives me these days is: **how can we effectively combine foundation models with rl?** More specifically, my goal is to design off-policy q-learning methods that improve the long-horizon reasoning abilities of vision-language-action (vla) models.
 
 **My research interests include the following challenges:**
 - Solving long-horizon tasks with sparse rewards   
