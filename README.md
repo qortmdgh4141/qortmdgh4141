@@ -60,7 +60,7 @@ _My research primarily focuses on Reinforcement Learning (RL), specifically with
 
 ### 🏫 Education <br/> 
 --------------------------
-**< &nbsp; 2026.03.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >**
+**< &nbsp; 2026.03.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >**
 - _**School Name** &nbsp;&nbsp; : &nbsp;&nbsp; Sungkyunkwan University_ <br/>
 - _**Degree** &nbsp;&nbsp; : &nbsp;&nbsp; Ph.D._ <br/>
 - _**Major** &nbsp;&nbsp; : &nbsp;&nbsp; Artificial Intelligence_ <br/>
