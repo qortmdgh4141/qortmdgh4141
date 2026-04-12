@@ -21,10 +21,10 @@ You can also find me on:
 --------------------------
 I'm interested in developing **reinforcement learning (rl)** algorithms for long-horizon and sparse-reward tasks, and applying them to real-world robotic control. The question that drives me these days is: **how can we effectively combine foundation models with rl?** More specifically, my goal is to design off-policy q-learning methods that improve the long-horizon reasoning abilities of vision-language-action (vla) models.
 
-**My research interests include the following challenges:**
-- Solving long-horizon tasks with sparse rewards   
-- Learning robustly from suboptimal datasets
+**My research interests include the following challenges:**   
 - Discovering skills for generalization 
+- Learning robustly from suboptimal datasets
+- Solving long-horizon tasks with sparse rewards
 - Combining foundation models with off-policy rl
   
 > **Research Keywords**: &nbsp; Offline RL · Off-to-Online RL · Unsupervised RL · Goal-Conditioned RL · Hierarchical RL
