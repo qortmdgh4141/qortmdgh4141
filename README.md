@@ -4,7 +4,7 @@
 
 #### Hello, I'm Seungho Baek 👋  
 
-I'm an Ph.D. student at Sungkyunkwan University (SKKU), advised by [Prof. Yusung Kim](https://sites.google.com/view/yskim525).  
+I'm a Ph.D. student at Sungkyunkwan University (SKKU), advised by [Prof. Yusung Kim](https://sites.google.com/view/yskim525).  
 
 You can also find me on:  
 
@@ -24,8 +24,8 @@ I'm interested in developing **reinforcement learning (rl)** algorithms for long
 **My research interests include the following challenges:**   
 - Discovering skills for generalization 
 - Learning robustly from suboptimal datasets
-- Solving long-horizon tasks with sparse rewards
 - Combining foundation models with off-policy rl
+- Solving long-horizon tasks with sparse rewards
   
 > **Research Keywords**: &nbsp; Offline RL · Off-to-Online RL · Unsupervised RL · Goal-Conditioned RL · Hierarchical RL
 > 
