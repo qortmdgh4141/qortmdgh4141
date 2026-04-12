@@ -20,13 +20,13 @@ You can also find me on:
 ### 📚 Research Interests <br/> 
 --------------------------
 
-_My research primarily focuses on Reinforcement Learning (RL), specifically within two main areas: offline RL and hierarchical RL. Initially, my research was centered on enhancing the agent’s long-horizon reasoning and stitching ability by formulating subgoal selection as a graph search problem rather than learning explicit high-level policy. I've also contributed by developing a framework that leverages temporal distance representations to improve offline hierarchical RL, particularly in settings with sparse rewards and suboptimal data. Recently, I’ve expanded into online RL, investigating how to enable efficient policy learning using a small amount of expert data combined with dense rewards shaped by a temporal distance representation._
+_I'm interested in developing reinforcement learning (rl) algorithms for long-horizon and sparse-reward tasks, and applying them to real-world robotic control. The question that drives me these days is: how can we effectively combine foundation models with rl? More specifically, my goal is to design off-policy q-learning methods that improve the long-horizon reasoning abilities of foundation models for robot control._
 
 **Ultimately, my goal is to address the following key challenges in offline RL:**
 - Solving long-horizon tasks with sparse rewards   
-- Learning robustly from suboptimal datasets   
-- Transferring knowledge across diverse trajectories  
-- Discovering skills for generalization
+- Learning robustly from suboptimal datasets
+- Discovering skills for generalization 
+- Combining foundation models with off-policy rl
   
 > **Research Keywords**: &nbsp; Offline RL · Unsupervised RL · Goal-Conditioned RL · Hierarchical RL
 > 
