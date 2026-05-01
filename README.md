@@ -33,7 +33,7 @@ I'm interested in developing **reinforcement learning (rl)** algorithms for long
 
 ### 🎓 Publications <br/> 
 --------------------------
-**< &nbsp; 2026.05.01 &nbsp; >** <br/> 
+**< &nbsp; 2026.01.01 ~ &nbsp;&nbsp; Present &nbsp; >**
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Learning Generalizable Skill Policy with Data-Efficient Unsupervised RL_ <br/>
 - _**Authors** &nbsp;&nbsp; : &nbsp;&nbsp; Jongchan Park, Seungjun Oh, Seungho Baek, Yusung Kim_ <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ICML (International Conference on Machine Learning)_ <br/> 
