@@ -33,6 +33,12 @@ I'm interested in developing **reinforcement learning (rl)** algorithms for long
 
 ### 🎓 Publications <br/> 
 --------------------------
+**< &nbsp; 2026.05.01 &nbsp; >** <br/> 
+- _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Learning Generalizable Skill Policy with Data-Efficient Unsupervised RL_ <br/>
+- _**Authors** &nbsp;&nbsp; : &nbsp;&nbsp; Jongchan Park, Seungjun Oh, Seungho Baek, Yusung Kim_ <br/> 
+- _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; ICML (International Conference on Machine Learning)_ <br/> 
+- _**Note**_&nbsp;&nbsp; : &nbsp;&nbsp; Top-tier ML Conference (BK=4) <br/><br/>
+
 **< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2025.11.30 &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Temporal Distance-Aware Subgoal Generation for Offline Hierarchical Reinforcement Learning_ <br/>
 - _**Authors** &nbsp;&nbsp; : &nbsp;&nbsp; Taegeon Park, Seungho Baek, Jongchan Park, Seungjun Oh, Yusung Kim_ <br/> 
