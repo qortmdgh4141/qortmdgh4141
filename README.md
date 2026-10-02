@@ -43,7 +43,7 @@ I'm interested in developing **reinforcement learning (rl)** algorithms for long
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Temporal Distance-Aware Subgoal Generation for Offline Hierarchical Reinforcement Learning_ <br/>
 - _**Authors** &nbsp;&nbsp; : &nbsp;&nbsp; Taegeon Park, Seungho Baek, Jongchan Park, Seungjun Oh, Yusung Kim_ <br/> 
 - _**Conference Name** &nbsp;&nbsp; : &nbsp;&nbsp; CIKM (Conference on Information and Knowledge Management)_ <br/>
-- _**Note**_&nbsp;&nbsp; : &nbsp;&nbsp; Top-tier AI conference (BK=3) <br/><br/> 
+- _**Note**_&nbsp;&nbsp; : &nbsp;&nbsp; Top-tier AI Conference (BK=3) <br/><br/> 
 
 **< &nbsp; 2023.09.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2025.07.31 &nbsp; >** <br/> 
 - _**Title** &nbsp;&nbsp; : &nbsp;&nbsp; Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning_ <br/>
