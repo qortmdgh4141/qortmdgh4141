@@ -88,16 +88,16 @@ I'm interested in developing **reinforcement learning (rl)** algorithms for long
 
 ### 👨‍🏫 Teaching <br/>
 --------------------------
-**< &nbsp; 2026.03.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/>
+**< &nbsp; 2024.03.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; Present &nbsp; >** <br/>
+- _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Reinforcement Learning_ <br/>
+- _**Audience** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
+
+**< &nbsp; 2026.03.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2026.06.19 &nbsp; >** <br/>
 - _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Data Analysis and AI_ <br/>
 - _**Audience** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
 
-**< &nbsp; 2023.09.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2025.12.23 &nbsp; >** <br/>
+**< &nbsp; 2023.09.02 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2025.12.19 &nbsp; >** <br/>
 - _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Data Analysis_ <br/>
-- _**Audience** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
-
-**< &nbsp; 2024.03.04 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2025.06.28 &nbsp; >** <br/>
-- _**Course** &nbsp;&nbsp; : &nbsp;&nbsp; Introduction to Reinforcement Learning_ <br/>
 - _**Audience** &nbsp;&nbsp; : &nbsp;&nbsp; Undergraduate Students at Sungkyunkwan University_ <br/> <br/>
 
 **< &nbsp; 2024.11.01 &nbsp;&nbsp; ~ &nbsp;&nbsp; 2024.11.14 &nbsp; >** <br/>
